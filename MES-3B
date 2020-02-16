@@ -1,0 +1,658 @@
+MES-3B contains 2821 characters, two of them private use.
+
+Source: http://www.evertype.com/standards/iso10646/pdf/cwa13873.pdf
+
+(this wiki also counts WGL4's F001 and F002, that's why the count is 2 higher)
+
+{| class="wikitable" style="text-align:center"
+!
+!0!!1!!2!!3!!4!!5!!6!!7!!8!!9!!A!!B!!C!!D!!E!!F
+|-
+!0020
+|&#32;||!||"||#||$||%||&||'||(||)||*||+||,||-||.||/
+|-
+!0030
+|0||1||2||3||4||5||6||7||8||9||:||;||<||=||>||?
+|-
+!0040
+|@||A||B||C||D||E||F||G||H||I||J||K||L||M||N||O
+|-
+!0050
+|P||Q||R||S||T||U||V||W||X||Y||Z||[||\||]||^||_
+|-
+!0060
+|`||a||b||c||d||e||f||g||h||i||j||k||l||m||n||o
+|-
+!0070
+|p||q||r||s||t||u||v||w||x||y||z||{||&#124;||}||~||bgcolor="#CCCCCC"|&nbsp;
+|-
+!colspan="17" bgcolor="#CCCCCC"|
+|-
+!00A0
+|&nbsp;||¡||¢||£||¤||¥||¦||§||¨||©||ª||«||¬||style="color:#CCC"|-||®||¯
+|-
+!00B0
+|°||±||²||³||´||µ||¶||·||¸||¹||º||»||¼||½||¾||¿
+|-
+!00C0
+|À||Á||Â||Ã||Ä||Å||Æ||Ç||È||É||Ê||Ë||Ì||Í||Î||Ï
+|-
+!00D0
+|Ð||Ñ||Ò||Ó||Ô||Õ||Ö||×||Ø||Ù||Ú||Û||Ü||Ý||Þ||ß
+|-
+!00E0
+|à||á||â||ã||ä||å||æ||ç||è||é||ê||ë||ì||í||î||ï
+|-
+!00F0
+|ð||ñ||ò||ó||ô||õ||ö||÷||ø||ù||ú||û||ü||ý||þ||ÿ
+|-
+!0100
+|Ā||ā||Ă||ă||Ą||ą||Ć||ć||Ĉ||ĉ||Ċ||ċ||Č||č||Ď||ď
+|-
+!0110
+|Đ||đ||Ē||ē||Ĕ||ĕ||Ė||ė||Ę||ę||Ě||ě||Ĝ||ĝ||Ğ||ğ
+|-
+!0120
+|Ġ||ġ||Ģ||ģ||Ĥ||ĥ||Ħ||ħ||Ĩ||ĩ||Ī||ī||Ĭ||ĭ||Į||į
+|-
+!0130
+|İ||ı||Ĳ||ĳ||Ĵ||ĵ||Ķ||ķ||ĸ||Ĺ||ĺ||Ļ||ļ||Ľ||ľ||Ŀ
+|-
+!0140
+|ŀ||Ł||ł||Ń||ń||Ņ||ņ||Ň||ň||ŉ||Ŋ||ŋ||Ō||ō||Ŏ||ŏ
+|-
+!0150
+|Ő||ő||Œ||œ||Ŕ||ŕ||Ŗ||ŗ||Ř||ř||Ś||ś||Ŝ||ŝ||Ş||ş
+|-
+!0160
+|Š||š||Ţ||ţ||Ť||ť||Ŧ||ŧ||Ũ||ũ||Ū||ū||Ŭ||ŭ||Ů||ů
+|-
+!0170
+|Ű||ű||Ų||ų||Ŵ||ŵ||Ŷ||ŷ||Ÿ||Ź||ź||Ż||ż||Ž||ž||ſ
+|-
+!0180
+|bgcolor="#FFDDCC"|&#x0180;||bgcolor="#FFDDCC"|&#x0181;||bgcolor="#FFDDCC"|&#x0182;||bgcolor="#FFDDCC"|&#x0183;||bgcolor="#FFDDCC"|&#x0184;||bgcolor="#FFDDCC"|&#x0185;||bgcolor="#FFDDCC"|&#x0186;||bgcolor="#FFDDCC"|&#x0187;||bgcolor="#FFDDCC"|&#x0188;||bgcolor="#FFDDCC"|&#x0189;||bgcolor="#FFDDCC"|&#x018A;||bgcolor="#FFDDCC"|&#x018B;||bgcolor="#FFDDCC"|&#x018C;||bgcolor="#FFDDCC"|&#x018D;||bgcolor="#FFDDCC"|&#x018E;||bgcolor="#FFFF88"|&#x018F;
+|-
+!0190
+|bgcolor="#FFDDCC"|&#x0190;||bgcolor="#FFDDCC"|&#x0191;||ƒ||bgcolor="#FFDDCC"|&#x0193;||bgcolor="#FFDDCC"|&#x0194;||bgcolor="#FFDDCC"|&#x0195;||bgcolor="#FFDDCC"|&#x0196;||bgcolor="#FFDDCC"|&#x0197;||bgcolor="#FFDDCC"|&#x0198;||bgcolor="#FFDDCC"|&#x0199;||bgcolor="#FFDDCC"|&#x019A;||bgcolor="#FFDDCC"|&#x019B;||bgcolor="#FFDDCC"|&#x019C;||bgcolor="#FFDDCC"|&#x019D;||bgcolor="#FFDDCC"|&#x019E;||bgcolor="#FFDDCC"|&#x019F;
+|-
+!01A0
+|bgcolor="#FFDDCC"|&#x01A0;||bgcolor="#FFDDCC"|&#x01A1;||bgcolor="#FFDDCC"|&#x01A2;||bgcolor="#FFDDCC"|&#x01A3;||bgcolor="#FFDDCC"|&#x01A4;||bgcolor="#FFDDCC"|&#x01A5;||bgcolor="#FFDDCC"|&#x01A6;||bgcolor="#FFDDCC"|&#x01A7;||bgcolor="#FFDDCC"|&#x01A8;||bgcolor="#FFDDCC"|&#x01A9;||bgcolor="#FFDDCC"|&#x01AA;||bgcolor="#FFDDCC"|&#x01AB;||bgcolor="#FFDDCC"|&#x01AC;||bgcolor="#FFDDCC"|&#x01AD;||bgcolor="#FFDDCC"|&#x01AE;||bgcolor="#FFDDCC"|&#x01AF;
+|-
+!01B0
+|bgcolor="#FFDDCC"|&#x01B0;||bgcolor="#FFDDCC"|&#x01B1;||bgcolor="#FFDDCC"|&#x01B2;||bgcolor="#FFDDCC"|&#x01B3;||bgcolor="#FFDDCC"|&#x01B4;||bgcolor="#FFDDCC"|&#x01B5;||bgcolor="#FFDDCC"|&#x01B6;||bgcolor="#FFFF88"|&#x01B7;||bgcolor="#FFDDCC"|&#x01B8;||bgcolor="#FFDDCC"|&#x01B9;||bgcolor="#FFDDCC"|&#x01BA;||bgcolor="#FFDDCC"|&#x01BB;||bgcolor="#FFDDCC"|&#x01BC;||bgcolor="#FFDDCC"|&#x01BD;||bgcolor="#FFDDCC"|&#x01BE;||bgcolor="#FFDDCC"|&#x01BF;
+|-
+!01C0
+|bgcolor="#FFDDCC"|&#x01C0;||bgcolor="#FFDDCC"|&#x01C1;||bgcolor="#FFDDCC"|&#x01C2;||bgcolor="#FFDDCC"|&#x01C3;||bgcolor="#FFDDCC"|&#x01C4;||bgcolor="#FFDDCC"|&#x01C5;||bgcolor="#FFDDCC"|&#x01C6;||bgcolor="#FFDDCC"|&#x01C7;||bgcolor="#FFDDCC"|&#x01C8;||bgcolor="#FFDDCC"|&#x01C9;||bgcolor="#FFDDCC"|&#x01CA;||bgcolor="#FFDDCC"|&#x01CB;||bgcolor="#FFDDCC"|&#x01CC;||bgcolor="#FFDDCC"|&#x01CD;||bgcolor="#FFDDCC"|&#x01CE;||bgcolor="#FFDDCC"|&#x01CF;
+|-
+!01D0
+|bgcolor="#FFDDCC"|&#x01D0;||bgcolor="#FFDDCC"|&#x01D1;||bgcolor="#FFDDCC"|&#x01D2;||bgcolor="#FFDDCC"|&#x01D3;||bgcolor="#FFDDCC"|&#x01D4;||bgcolor="#FFDDCC"|&#x01D5;||bgcolor="#FFDDCC"|&#x01D6;||bgcolor="#FFDDCC"|&#x01D7;||bgcolor="#FFDDCC"|&#x01D8;||bgcolor="#FFDDCC"|&#x01D9;||bgcolor="#FFDDCC"|&#x01DA;||bgcolor="#FFDDCC"|&#x01DB;||bgcolor="#FFDDCC"|&#x01DC;||bgcolor="#FFDDCC"|&#x01DD;||bgcolor="#FFFF88"|&#x01DE;||bgcolor="#FFFF88"|&#x01DF;
+|-
+!01E0
+|bgcolor="#FFFF88"|&#x01E0;||bgcolor="#FFFF88"|&#x01E1;||bgcolor="#FFFF88"|&#x01E2;||bgcolor="#FFFF88"|&#x01E3;||bgcolor="#FFFF88"|&#x01E4;||bgcolor="#FFFF88"|&#x01E5;||bgcolor="#FFFF88"|&#x01E6;||bgcolor="#FFFF88"|&#x01E7;||bgcolor="#FFFF88"|&#x01E8;||bgcolor="#FFFF88"|&#x01E9;||bgcolor="#FFFF88"|&#x01EA;||bgcolor="#FFFF88"|&#x01EB;||bgcolor="#FFFF88"|&#x01EC;||bgcolor="#FFFF88"|&#x01ED;||bgcolor="#FFFF88"|&#x01EE;||bgcolor="#FFFF88"|&#x01EF;
+|-
+!01F0
+|bgcolor="#FFDDCC"|&#x01F0;||bgcolor="#FFDDCC"|&#x01F1;||bgcolor="#FFDDCC"|&#x01F2;||bgcolor="#FFDDCC"|&#x01F3;||bgcolor="#FFDDCC"|&#x01F4;||bgcolor="#FFDDCC"|&#x01F5;||bgcolor="#FFDDCC"|&#x01F6;||bgcolor="#FFDDCC"|&#x01F7;||bgcolor="#FFDDCC"|&#x01F8;||bgcolor="#FFDDCC"|&#x01F9;||Ǻ||ǻ||Ǽ||ǽ||Ǿ||ǿ
+|-
+!0200
+|bgcolor="#FFDDCC"|&#x0200;||bgcolor="#FFDDCC"|&#x0201;||bgcolor="#FFDDCC"|&#x0202;||bgcolor="#FFDDCC"|&#x0203;||bgcolor="#FFDDCC"|&#x0204;||bgcolor="#FFDDCC"|&#x0205;||bgcolor="#FFDDCC"|&#x0206;||bgcolor="#FFDDCC"|&#x0207;||bgcolor="#FFDDCC"|&#x0208;||bgcolor="#FFDDCC"|&#x0209;||bgcolor="#FFDDCC"|&#x020A;||bgcolor="#FFDDCC"|&#x020B;||bgcolor="#FFDDCC"|&#x020C;||bgcolor="#FFDDCC"|&#x020D;||bgcolor="#FFDDCC"|&#x020E;||bgcolor="#FFDDCC"|&#x020F;
+|-
+!0210
+|bgcolor="#FFDDCC"|&#x0210;||bgcolor="#FFDDCC"|&#x0211;||bgcolor="#FFDDCC"|&#x0212;||bgcolor="#FFDDCC"|&#x0213;||bgcolor="#FFDDCC"|&#x0214;||bgcolor="#FFDDCC"|&#x0215;||bgcolor="#FFDDCC"|&#x0216;||bgcolor="#FFDDCC"|&#x0217;||bgcolor="#FFFF88"|&#x0218;||bgcolor="#FFFF88"|&#x0219;||bgcolor="#FFFF88"|&#x021A;||bgcolor="#FFFF88"|&#x021B;||bgcolor="#FFDDCC"|&#x021C;||bgcolor="#FFDDCC"|&#x021D;||bgcolor="#FFFF88"|&#x021E;||bgcolor="#FFFF88"|&#x021F;
+|-
+!0220
+|bgcolor="#CCCCCC" colspan="2"|&nbsp;||bgcolor="#FFDDCC"|&#x0222;||bgcolor="#FFDDCC"|&#x0223;||bgcolor="#FFDDCC"|&#x0224;||bgcolor="#FFDDCC"|&#x0225;||bgcolor="#FFDDCC"|&#x0226;||bgcolor="#FFDDCC"|&#x0227;||bgcolor="#FFDDCC"|&#x0228;||bgcolor="#FFDDCC"|&#x0229;||bgcolor="#FFDDCC"|&#x022A;||bgcolor="#FFDDCC"|&#x022B;||bgcolor="#FFDDCC"|&#x022C;||bgcolor="#FFDDCC"|&#x022D;||bgcolor="#FFDDCC"|&#x022E;||bgcolor="#FFDDCC"|&#x022F;
+|-
+!0230
+|bgcolor="#FFDDCC"|&#x0230;||bgcolor="#FFDDCC"|&#x0231;||bgcolor="#FFDDCC"|&#x0232;||bgcolor="#FFDDCC"|&#x0233;||bgcolor="#CCCCCC" colspan="12"|&nbsp;
+|-
+!colspan="17" bgcolor="#CCCCCC"| 
+|-
+!0250
+|bgcolor="#FFDDCC"|&#x0250;||bgcolor="#FFDDCC"|&#x0251;||bgcolor="#FFDDCC"|&#x0252;||bgcolor="#FFDDCC"|&#x0253;||bgcolor="#FFDDCC"|&#x0254;||bgcolor="#FFDDCC"|&#x0255;||bgcolor="#FFDDCC"|&#x0256;||bgcolor="#FFDDCC"|&#x0257;||bgcolor="#FFDDCC"|&#x0258;||bgcolor="#FFFF88"|&#x0259;||bgcolor="#FFDDCC"|&#x025A;||bgcolor="#FFDDCC"|&#x025B;||bgcolor="#FFDDCC"|&#x025C;||bgcolor="#FFDDCC"|&#x025D;||bgcolor="#FFDDCC"|&#x025E;||bgcolor="#FFDDCC"|&#x025F;
+|-
+!0260
+|bgcolor="#FFDDCC"|&#x0260;||bgcolor="#FFDDCC"|&#x0261;||bgcolor="#FFDDCC"|&#x0262;||bgcolor="#FFDDCC"|&#x0263;||bgcolor="#FFDDCC"|&#x0264;||bgcolor="#FFDDCC"|&#x0265;||bgcolor="#FFDDCC"|&#x0266;||bgcolor="#FFDDCC"|&#x0267;||bgcolor="#FFDDCC"|&#x0268;||bgcolor="#FFDDCC"|&#x0269;||bgcolor="#FFDDCC"|&#x026A;||bgcolor="#FFDDCC"|&#x026B;||bgcolor="#FFDDCC"|&#x026C;||bgcolor="#FFDDCC"|&#x026D;||bgcolor="#FFDDCC"|&#x026E;||bgcolor="#FFDDCC"|&#x026F;
+|-
+!0270
+|bgcolor="#FFDDCC"|&#x0270;||bgcolor="#FFDDCC"|&#x0271;||bgcolor="#FFDDCC"|&#x0272;||bgcolor="#FFDDCC"|&#x0273;||bgcolor="#FFDDCC"|&#x0274;||bgcolor="#FFDDCC"|&#x0275;||bgcolor="#FFDDCC"|&#x0276;||bgcolor="#FFDDCC"|&#x0277;||bgcolor="#FFDDCC"|&#x0278;||bgcolor="#FFDDCC"|&#x0279;||bgcolor="#FFDDCC"|&#x027A;||bgcolor="#FFDDCC"|&#x027B;||bgcolor="#FFFF88"|&#x027C;||bgcolor="#FFDDCC"|&#x027D;||bgcolor="#FFDDCC"|&#x027E;||bgcolor="#FFDDCC"|&#x027F;
+|-
+!0280
+|bgcolor="#FFDDCC"|&#x0280;||bgcolor="#FFDDCC"|&#x0281;||bgcolor="#FFDDCC"|&#x0282;||bgcolor="#FFDDCC"|&#x0283;||bgcolor="#FFDDCC"|&#x0284;||bgcolor="#FFDDCC"|&#x0285;||bgcolor="#FFDDCC"|&#x0286;||bgcolor="#FFDDCC"|&#x0287;||bgcolor="#FFDDCC"|&#x0288;||bgcolor="#FFDDCC"|&#x0289;||bgcolor="#FFDDCC"|&#x028A;||bgcolor="#FFDDCC"|&#x028B;||bgcolor="#FFDDCC"|&#x028C;||bgcolor="#FFDDCC"|&#x028D;||bgcolor="#FFDDCC"|&#x028E;||bgcolor="#FFDDCC"|&#x028F;
+|-
+!0290
+|bgcolor="#FFDDCC"|&#x0290;||bgcolor="#FFDDCC"|&#x0291;||bgcolor="#FFFF88"|&#x0292;||bgcolor="#FFDDCC"|&#x0293;||bgcolor="#FFDDCC"|&#x0294;||bgcolor="#FFDDCC"|&#x0295;||bgcolor="#FFDDCC"|&#x0296;||bgcolor="#FFDDCC"|&#x0297;||bgcolor="#FFDDCC"|&#x0298;||bgcolor="#FFDDCC"|&#x0299;||bgcolor="#FFDDCC"|&#x029A;||bgcolor="#FFDDCC"|&#x029B;||bgcolor="#FFDDCC"|&#x029C;||bgcolor="#FFDDCC"|&#x029D;||bgcolor="#FFDDCC"|&#x029E;||bgcolor="#FFDDCC"|&#x029F;
+|-
+!02A0
+|bgcolor="#FFDDCC"|&#x02A0;||bgcolor="#FFDDCC"|&#x02A1;||bgcolor="#FFDDCC"|&#x02A2;||bgcolor="#FFDDCC"|&#x02A3;||bgcolor="#FFDDCC"|&#x02A4;||bgcolor="#FFDDCC"|&#x02A5;||bgcolor="#FFDDCC"|&#x02A6;||bgcolor="#FFDDCC"|&#x02A7;||bgcolor="#FFDDCC"|&#x02A8;||bgcolor="#FFDDCC"|&#x02A9;||bgcolor="#FFDDCC"|&#x02AA;||bgcolor="#FFDDCC"|&#x02AB;||bgcolor="#FFDDCC"|&#x02AC;||bgcolor="#FFDDCC"|&#x02AD;||bgcolor="#CCCCCC" colspan="2"|&nbsp;
+|-
+!02B0
+|bgcolor="#FFDDCC"|&#x02B0;||bgcolor="#FFDDCC"|&#x02B1;||bgcolor="#FFDDCC"|&#x02B2;||bgcolor="#FFDDCC"|&#x02B3;||bgcolor="#FFDDCC"|&#x02B4;||bgcolor="#FFDDCC"|&#x02B5;||bgcolor="#FFDDCC"|&#x02B6;||bgcolor="#FFDDCC"|&#x02B7;||bgcolor="#FFDDCC"|&#x02B8;||bgcolor="#FFDDCC"|&#x02B9;||bgcolor="#FFDDCC"|&#x02BA;||bgcolor="#FFFF88"|&#x02BB;||bgcolor="#FFFF88"|&#x02BC;||bgcolor="#FFFF88"|&#x02BD;||bgcolor="#FFDDCC"|&#x02BE;||bgcolor="#FFDDCC"|&#x02BF;
+|-
+!02C0
+|bgcolor="#FFDDCC"|&#x02C0;||bgcolor="#FFDDCC"|&#x02C1;||bgcolor="#FFDDCC"|&#x02C2;||bgcolor="#FFDDCC"|&#x02C3;||bgcolor="#FFDDCC"|&#x02C4;||bgcolor="#FFDDCC"|&#x02C5;||ˆ||ˇ||bgcolor="#FFDDCC"|&#x02C8;||ˉ||bgcolor="#FFDDCC"|&#x02CA;||bgcolor="#FFDDCC"|&#x02CB;||bgcolor="#FFDDCC"|&#x02CC;||bgcolor="#FFDDCC"|&#x02CD;||bgcolor="#FFDDCC"|&#x02CE;||bgcolor="#FFDDCC"|&#x02CF;
+|-
+!02D0
+|bgcolor="#FFDDCC"|&#x02D0;||bgcolor="#FFDDCC"|&#x02D1;||bgcolor="#FFDDCC"|&#x02D2;||bgcolor="#FFDDCC"|&#x02D3;||bgcolor="#FFDDCC"|&#x02D4;||bgcolor="#FFDDCC"|&#x02D5;||bgcolor="#FFFF88"|&#x02D6;||bgcolor="#FFDDCC"|&#x02D7;||˘||˙||˚||˛||˜||˝||bgcolor="#FFDDCC"|&#x02DE;||bgcolor="#FFFF88"|&#x02DF;
+|-
+!02E0
+|bgcolor="#FFDDCC"|&#x02E0;||bgcolor="#FFDDCC"|&#x02E1;||bgcolor="#FFDDCC"|&#x02E2;||bgcolor="#FFDDCC"|&#x02E3;||bgcolor="#FFDDCC"|&#x02E4;||bgcolor="#FFDDCC"|&#x02E5;||bgcolor="#FFDDCC"|&#x02E6;||bgcolor="#FFDDCC"|&#x02E7;||bgcolor="#FFDDCC"|&#x02E8;||bgcolor="#FFDDCC"|&#x02E9;||bgcolor="#FFDDCC"|&#x02EA;||bgcolor="#FFDDCC"|&#x02EB;||bgcolor="#FFDDCC"|&#x02EC;||bgcolor="#FFDDCC"|&#x02ED;||bgcolor="#FFFF88"|&#x02EE;||bgcolor="#CCCCCC" colspan="1"|&nbsp;
+|-
+!colspan="17" bgcolor="#CCCCCC"|
+|-
+!0300
+|bgcolor="#FFDDCC"|&#x0300;||bgcolor="#FFDDCC"|&#x0301;||bgcolor="#FFDDCC"|&#x0302;||bgcolor="#FFDDCC"|&#x0303;||bgcolor="#FFDDCC"|&#x0304;||bgcolor="#FFDDCC"|&#x0305;||bgcolor="#FFDDCC"|&#x0306;||bgcolor="#FFDDCC"|&#x0307;||bgcolor="#FFDDCC"|&#x0308;||bgcolor="#FFDDCC"|&#x0309;||bgcolor="#FFDDCC"|&#x030A;||bgcolor="#FFDDCC"|&#x030B;||bgcolor="#FFDDCC"|&#x030C;||bgcolor="#FFDDCC"|&#x030D;||bgcolor="#FFDDCC"|&#x030E;||bgcolor="#FFDDCC"|&#x030F;
+|-
+!0310
+|bgcolor="#FFDDCC"|&#x0310;||bgcolor="#FFDDCC"|&#x0311;||bgcolor="#FFDDCC"|&#x0312;||bgcolor="#FFDDCC"|&#x0313;||bgcolor="#FFDDCC"|&#x0314;||bgcolor="#FFDDCC"|&#x0315;||bgcolor="#FFDDCC"|&#x0316;||bgcolor="#FFDDCC"|&#x0317;||bgcolor="#FFDDCC"|&#x0318;||bgcolor="#FFDDCC"|&#x0319;||bgcolor="#FFDDCC"|&#x031A;||bgcolor="#FFDDCC"|&#x031B;||bgcolor="#FFDDCC"|&#x031C;||bgcolor="#FFDDCC"|&#x031D;||bgcolor="#FFDDCC"|&#x031E;||bgcolor="#FFDDCC"|&#x031F;
+|-
+!0320
+|bgcolor="#FFDDCC"|&#x0320;||bgcolor="#FFDDCC"|&#x0321;||bgcolor="#FFDDCC"|&#x0322;||bgcolor="#FFDDCC"|&#x0323;||bgcolor="#FFDDCC"|&#x0324;||bgcolor="#FFDDCC"|&#x0325;||bgcolor="#FFDDCC"|&#x0326;||bgcolor="#FFDDCC"|&#x0327;||bgcolor="#FFDDCC"|&#x0328;||bgcolor="#FFDDCC"|&#x0329;||bgcolor="#FFDDCC"|&#x032A;||bgcolor="#FFDDCC"|&#x032B;||bgcolor="#FFDDCC"|&#x032C;||bgcolor="#FFDDCC"|&#x032D;||bgcolor="#FFDDCC"|&#x032E;||bgcolor="#FFDDCC"|&#x032F;
+|-
+!0330
+|bgcolor="#FFDDCC"|&#x0330;||bgcolor="#FFDDCC"|&#x0331;||bgcolor="#FFDDCC"|&#x0332;||bgcolor="#FFDDCC"|&#x0333;||bgcolor="#FFDDCC"|&#x0334;||bgcolor="#FFDDCC"|&#x0335;||bgcolor="#FFDDCC"|&#x0336;||bgcolor="#FFDDCC"|&#x0337;||bgcolor="#FFDDCC"|&#x0338;||bgcolor="#FFDDCC"|&#x0339;||bgcolor="#FFDDCC"|&#x033A;||bgcolor="#FFDDCC"|&#x033B;||bgcolor="#FFDDCC"|&#x033C;||bgcolor="#FFDDCC"|&#x033D;||bgcolor="#FFDDCC"|&#x033E;||bgcolor="#FFDDCC"|&#x033F;
+|-
+!0340
+|bgcolor="#FFDDCC"|&#x0340;||bgcolor="#FFDDCC"|&#x0341;||bgcolor="#FFDDCC"|&#x0342;||bgcolor="#FFDDCC"|&#x0343;||bgcolor="#FFDDCC"|&#x0344;||bgcolor="#FFDDCC"|&#x0345;||bgcolor="#FFDDCC"|&#x0346;||bgcolor="#FFDDCC"|&#x0347;||bgcolor="#FFDDCC"|&#x0348;||bgcolor="#FFDDCC"|&#x0349;||bgcolor="#FFDDCC"|&#x034A;||bgcolor="#FFDDCC"|&#x034B;||bgcolor="#FFDDCC"|&#x034C;||bgcolor="#FFDDCC"|&#x034D;||bgcolor="#FFDDCC"|&#x034E;||bgcolor="#CCCCCC" colspan="1"|&nbsp;
+|-
+!colspan="17" bgcolor="#CCCCCC"| 
+|-
+!0360
+|bgcolor="#FFDDCC"|&#x0360;||bgcolor="#FFDDCC"|&#x0361;||bgcolor="#FFDDCC"|&#x0362;||bgcolor="#CCCCCC" colspan="13"|&nbsp;
+|-
+!0370
+|bgcolor="#CCCCCC" colspan="4"|&nbsp;||bgcolor="#FFFF88"|&#x0374;||bgcolor="#FFFF88"|&#x0375;||bgcolor="#CCCCCC" colspan="4"|&nbsp;||bgcolor="#FFFF88"|&#x037A;||bgcolor="#CCCCCC" colspan="3"|&nbsp;||bgcolor="#FFFF88"|&#x037E;||bgcolor="#CCCCCC" colspan="1"|&nbsp;
+|-
+!0380
+|bgcolor="#CCCCCC" colspan="4"|&nbsp;||΄||΅||Ά||·||Έ||Ή||Ί||bgcolor="#CCCCCC"|&nbsp;||Ό||bgcolor="#CCCCCC"|&nbsp;||Ύ||Ώ
+|-
+!0390
+|ΐ||Α||Β||Γ||Δ||Ε||Ζ||Η||Θ||Ι||Κ||Λ||Μ||Ν||Ξ||Ο
+|-
+!03A0
+|Π||Ρ||bgcolor="#CCCCCC"|&nbsp;||Σ||Τ||Υ||Φ||Χ||Ψ||Ω||Ϊ||Ϋ||ά||έ||ή||ί
+|-
+!03B0
+|ΰ||α||β||γ||δ||ε||ζ||η||θ||ι||κ||λ||μ||ν||ξ||ο
+|-
+!03C0
+|π||ρ||ς||σ||τ||υ||φ||χ||ψ||ω||ϊ||ϋ||ό||ύ||ώ||bgcolor="#CCCCCC"|&nbsp;
+|-
+!03D0
+|bgcolor="#FFDDCC"|&#x03D0;||bgcolor="#FFDDCC"|&#x03D1;||bgcolor="#FFDDCC"|&#x03D2;||bgcolor="#FFDDCC"|&#x03D3;||bgcolor="#FFDDCC"|&#x03D4;||bgcolor="#FFDDCC"|&#x03D5;||bgcolor="#FFDDCC"|&#x03D6;||bgcolor="#FFFF88"|&#x03D7;||bgcolor="#CCCCCC" colspan="2"|&nbsp;||bgcolor="#FFFF88"|&#x03DA;||bgcolor="#FFFF88"|&#x03DB;||bgcolor="#FFFF88"|&#x03DC;||bgcolor="#FFFF88"|&#x03DD;||bgcolor="#FFFF88"|&#x03DE;||bgcolor="#FFFF88"|&#x03DF;
+|-
+!03E0
+|bgcolor="#FFFF88"|&#x03E0;||bgcolor="#FFFF88"|&#x03E1;||bgcolor="#FFDDCC"|&#x03E2;||bgcolor="#FFDDCC"|&#x03E3;||bgcolor="#FFDDCC"|&#x03E4;||bgcolor="#FFDDCC"|&#x03E5;||bgcolor="#FFDDCC"|&#x03E6;||bgcolor="#FFDDCC"|&#x03E7;||bgcolor="#FFDDCC"|&#x03E8;||bgcolor="#FFDDCC"|&#x03E9;||bgcolor="#FFDDCC"|&#x03EA;||bgcolor="#FFDDCC"|&#x03EB;||bgcolor="#FFDDCC"|&#x03EC;||bgcolor="#FFDDCC"|&#x03ED;||bgcolor="#FFDDCC"|&#x03EE;||bgcolor="#FFDDCC"|&#x03EF;
+|-
+!03F0
+|bgcolor="#FFDDCC"|&#x03F0;||bgcolor="#FFDDCC"|&#x03F1;||bgcolor="#FFDDCC"|&#x03F2;||bgcolor="#FFDDCC"|&#x03F3;||bgcolor="#CCCCCC" colspan="12"|&nbsp;
+|-
+!0400
+|Ѐ||Ё||Ђ||Ѓ||Є||Ѕ||І||Ї||Ј||Љ||Њ||Ћ||Ќ||Ѝ||Ў||Џ
+|-
+!0410
+|А||Б||В||Г||Д||Е||Ж||З||И||Й||К||Л||М||Н||О||П
+|-
+!0420
+|Р||С||Т||У||Ф||Х||Ц||Ч||Ш||Щ||Ъ||Ы||Ь||Э||Ю||Я
+|-
+!0430
+|а||б||в||г||д||е||ж||з||и||й||к||л||м||н||о||п
+|-
+!0440
+|р||с||т||у||ф||х||ц||ч||ш||щ||ъ||ы||ь||э||ю||я
+|-
+!0450
+|ѐ||ё||ђ||ѓ||є||ѕ||і||ї||ј||љ||њ||ћ||ќ||ѝ||ў||џ
+|-
+!0460
+|bgcolor="#FFDDCC"|&#x0460;||bgcolor="#FFDDCC"|&#x0461;||bgcolor="#FFDDCC"|&#x0462;||bgcolor="#FFDDCC"|&#x0463;||bgcolor="#FFDDCC"|&#x0464;||bgcolor="#FFDDCC"|&#x0465;||bgcolor="#FFDDCC"|&#x0466;||bgcolor="#FFDDCC"|&#x0467;||bgcolor="#FFDDCC"|&#x0468;||bgcolor="#FFDDCC"|&#x0469;||bgcolor="#FFDDCC"|&#x046A;||bgcolor="#FFDDCC"|&#x046B;||bgcolor="#FFDDCC"|&#x046C;||bgcolor="#FFDDCC"|&#x046D;||bgcolor="#FFDDCC"|&#x046E;||bgcolor="#FFDDCC"|&#x046F;
+|-
+!0470
+|bgcolor="#FFDDCC"|&#x0470;||bgcolor="#FFDDCC"|&#x0471;||bgcolor="#FFDDCC"|&#x0472;||bgcolor="#FFDDCC"|&#x0473;||bgcolor="#FFDDCC"|&#x0474;||bgcolor="#FFDDCC"|&#x0475;||bgcolor="#FFDDCC"|&#x0476;||bgcolor="#FFDDCC"|&#x0477;||bgcolor="#FFDDCC"|&#x0478;||bgcolor="#FFDDCC"|&#x0479;||bgcolor="#FFDDCC"|&#x047A;||bgcolor="#FFDDCC"|&#x047B;||bgcolor="#FFDDCC"|&#x047C;||bgcolor="#FFDDCC"|&#x047D;||bgcolor="#FFDDCC"|&#x047E;||bgcolor="#FFDDCC"|&#x047F;
+|-
+!0480
+|bgcolor="#FFDDCC"|&#x0480;||bgcolor="#FFDDCC"|&#x0481;||bgcolor="#FFDDCC"|&#x0482;||bgcolor="#FFDDCC"|&#x0483;||bgcolor="#FFDDCC"|&#x0484;||bgcolor="#FFDDCC"|&#x0485;||bgcolor="#FFDDCC"|&#x0486;||bgcolor="#CCCCCC" colspan="1"|&nbsp;||bgcolor="#FFDDCC"|&#x0488;||bgcolor="#FFDDCC"|&#x0489;||bgcolor="#CCCCCC" colspan="2"|&nbsp;||bgcolor="#FFDDCC"|&#x048C;||bgcolor="#FFDDCC"|&#x048D;||bgcolor="#FFDDCC"|&#x048E;||bgcolor="#FFDDCC"|&#x048F;
+|-
+!0490
+|Ґ||ґ||bgcolor="#FFFF88"|&#x0492;||bgcolor="#FFFF88"|&#x0493;||bgcolor="#FFFF88"|&#x0494;||bgcolor="#FFFF88"|&#x0495;||bgcolor="#FFFF88"|&#x0496;||bgcolor="#FFFF88"|&#x0497;||bgcolor="#FFFF88"|&#x0498;||bgcolor="#FFFF88"|&#x0499;||bgcolor="#FFFF88"|&#x049A;||bgcolor="#FFFF88"|&#x049B;||bgcolor="#FFFF88"|&#x049C;||bgcolor="#FFFF88"|&#x049D;||bgcolor="#FFFF88"|&#x049E;||bgcolor="#FFFF88"|&#x049F;
+|-
+!04A0
+|bgcolor="#FFFF88"|&#x04A0;||bgcolor="#FFFF88"|&#x04A1;||bgcolor="#FFFF88"|&#x04A2;||bgcolor="#FFFF88"|&#x04A3;||bgcolor="#FFFF88"|&#x04A4;||bgcolor="#FFFF88"|&#x04A5;||bgcolor="#FFFF88"|&#x04A6;||bgcolor="#FFFF88"|&#x04A7;||bgcolor="#FFFF88"|&#x04A8;||bgcolor="#FFFF88"|&#x04A9;||bgcolor="#FFFF88"|&#x04AA;||bgcolor="#FFFF88"|&#x04AB;||bgcolor="#FFFF88"|&#x04AC;||bgcolor="#FFFF88"|&#x04AD;||bgcolor="#FFFF88"|&#x04AE;||bgcolor="#FFFF88"|&#x04AF;
+|-
+!04B0
+|bgcolor="#FFFF88"|&#x04B0;||bgcolor="#FFFF88"|&#x04B1;||bgcolor="#FFFF88"|&#x04B2;||bgcolor="#FFFF88"|&#x04B3;||bgcolor="#FFFF88"|&#x04B4;||bgcolor="#FFFF88"|&#x04B5;||bgcolor="#FFFF88"|&#x04B6;||bgcolor="#FFFF88"|&#x04B7;||bgcolor="#FFFF88"|&#x04B8;||bgcolor="#FFFF88"|&#x04B9;||bgcolor="#FFFF88"|&#x04BA;||bgcolor="#FFFF88"|&#x04BB;||bgcolor="#FFFF88"|&#x04BC;||bgcolor="#FFFF88"|&#x04BD;||bgcolor="#FFFF88"|&#x04BE;||bgcolor="#FFFF88"|&#x04BF;
+|-
+!04C0
+|bgcolor="#FFFF88"|&#x04C0;||bgcolor="#FFFF88"|&#x04C1;||bgcolor="#FFFF88"|&#x04C2;||bgcolor="#FFFF88"|&#x04C3;||bgcolor="#FFFF88"|&#x04C4;||bgcolor="#CCCCCC" colspan="2"|&nbsp;||bgcolor="#FFFF88"|&#x04C7;||bgcolor="#FFFF88"|&#x04C8;||bgcolor="#CCCCCC" colspan="2"|&nbsp;||bgcolor="#FFFF88"|&#x04CB;||bgcolor="#FFFF88"|&#x04CC;||bgcolor="#CCCCCC" colspan="3"|&nbsp;
+|-
+!04D0
+|bgcolor="#FFFF88"|&#x04D0;||bgcolor="#FFFF88"|&#x04D1;||bgcolor="#FFFF88"|&#x04D2;||bgcolor="#FFFF88"|&#x04D3;||bgcolor="#FFFF88"|&#x04D4;||bgcolor="#FFFF88"|&#x04D5;||bgcolor="#FFFF88"|&#x04D6;||bgcolor="#FFFF88"|&#x04D7;||bgcolor="#FFFF88"|&#x04D8;||bgcolor="#FFFF88"|&#x04D9;||bgcolor="#FFFF88"|&#x04DA;||bgcolor="#FFFF88"|&#x04DB;||bgcolor="#FFFF88"|&#x04DC;||bgcolor="#FFFF88"|&#x04DD;||bgcolor="#FFFF88"|&#x04DE;||bgcolor="#FFFF88"|&#x04DF;
+|-
+!04E0
+|bgcolor="#FFFF88"|&#x04E0;||bgcolor="#FFFF88"|&#x04E1;||bgcolor="#FFFF88"|&#x04E2;||bgcolor="#FFFF88"|&#x04E3;||bgcolor="#FFFF88"|&#x04E4;||bgcolor="#FFFF88"|&#x04E5;||bgcolor="#FFFF88"|&#x04E6;||bgcolor="#FFFF88"|&#x04E7;||bgcolor="#FFFF88"|&#x04E8;||bgcolor="#FFFF88"|&#x04E9;||bgcolor="#FFFF88"|&#x04EA;||bgcolor="#FFFF88"|&#x04EB;||bgcolor="#FFDDCC"|&#x04EC;||bgcolor="#FFDDCC"|&#x04ED;||bgcolor="#FFFF88"|&#x04EE;||bgcolor="#FFFF88"|&#x04EF;
+|-
+!04F0
+|bgcolor="#FFFF88"|&#x04F0;||bgcolor="#FFFF88"|&#x04F1;||bgcolor="#FFFF88"|&#x04F2;||bgcolor="#FFFF88"|&#x04F3;||bgcolor="#FFFF88"|&#x04F4;||bgcolor="#FFFF88"|&#x04F5;||bgcolor="#CCCCCC" colspan="2"|&nbsp;||bgcolor="#FFFF88"|&#x04F8;||bgcolor="#FFFF88"|&#x04F9;||bgcolor="#CCCCCC" colspan="6"|&nbsp;
+|-
+!colspan="17" bgcolor="#CCCCCC"| 
+|-
+!0530
+|bgcolor="#CCCCCC" colspan="1"|&nbsp;||bgcolor="#FFDDCC"|&#x0531;||bgcolor="#FFDDCC"|&#x0532;||bgcolor="#FFDDCC"|&#x0533;||bgcolor="#FFDDCC"|&#x0534;||bgcolor="#FFDDCC"|&#x0535;||bgcolor="#FFDDCC"|&#x0536;||bgcolor="#FFDDCC"|&#x0537;||bgcolor="#FFDDCC"|&#x0538;||bgcolor="#FFDDCC"|&#x0539;||bgcolor="#FFDDCC"|&#x053A;||bgcolor="#FFDDCC"|&#x053B;||bgcolor="#FFDDCC"|&#x053C;||bgcolor="#FFDDCC"|&#x053D;||bgcolor="#FFDDCC"|&#x053E;||bgcolor="#FFDDCC"|&#x053F;
+|-
+!0540
+|bgcolor="#FFDDCC"|&#x0540;||bgcolor="#FFDDCC"|&#x0541;||bgcolor="#FFDDCC"|&#x0542;||bgcolor="#FFDDCC"|&#x0543;||bgcolor="#FFDDCC"|&#x0544;||bgcolor="#FFDDCC"|&#x0545;||bgcolor="#FFDDCC"|&#x0546;||bgcolor="#FFDDCC"|&#x0547;||bgcolor="#FFDDCC"|&#x0548;||bgcolor="#FFDDCC"|&#x0549;||bgcolor="#FFDDCC"|&#x054A;||bgcolor="#FFDDCC"|&#x054B;||bgcolor="#FFDDCC"|&#x054C;||bgcolor="#FFDDCC"|&#x054D;||bgcolor="#FFDDCC"|&#x054E;||bgcolor="#FFDDCC"|&#x054F;
+|-
+!0550
+|bgcolor="#FFDDCC"|&#x0550;||bgcolor="#FFDDCC"|&#x0551;||bgcolor="#FFDDCC"|&#x0552;||bgcolor="#FFDDCC"|&#x0553;||bgcolor="#FFDDCC"|&#x0554;||bgcolor="#FFDDCC"|&#x0555;||bgcolor="#FFDDCC"|&#x0556;||bgcolor="#CCCCCC" colspan="2"|&nbsp;||bgcolor="#FFDDCC"|&#x0559;||bgcolor="#FFDDCC"|&#x055A;||bgcolor="#FFDDCC"|&#x055B;||bgcolor="#FFDDCC"|&#x055C;||bgcolor="#FFDDCC"|&#x055D;||bgcolor="#FFDDCC"|&#x055E;||bgcolor="#FFDDCC"|&#x055F;
+|-
+!0560
+|bgcolor="#CCCCCC" colspan="1"|&nbsp;||bgcolor="#FFDDCC"|&#x0561;||bgcolor="#FFDDCC"|&#x0562;||bgcolor="#FFDDCC"|&#x0563;||bgcolor="#FFDDCC"|&#x0564;||bgcolor="#FFDDCC"|&#x0565;||bgcolor="#FFDDCC"|&#x0566;||bgcolor="#FFDDCC"|&#x0567;||bgcolor="#FFDDCC"|&#x0568;||bgcolor="#FFDDCC"|&#x0569;||bgcolor="#FFDDCC"|&#x056A;||bgcolor="#FFDDCC"|&#x056B;||bgcolor="#FFDDCC"|&#x056C;||bgcolor="#FFDDCC"|&#x056D;||bgcolor="#FFDDCC"|&#x056E;||bgcolor="#FFDDCC"|&#x056F;
+|-
+!0570
+|bgcolor="#FFDDCC"|&#x0570;||bgcolor="#FFDDCC"|&#x0571;||bgcolor="#FFDDCC"|&#x0572;||bgcolor="#FFDDCC"|&#x0573;||bgcolor="#FFDDCC"|&#x0574;||bgcolor="#FFDDCC"|&#x0575;||bgcolor="#FFDDCC"|&#x0576;||bgcolor="#FFDDCC"|&#x0577;||bgcolor="#FFDDCC"|&#x0578;||bgcolor="#FFDDCC"|&#x0579;||bgcolor="#FFDDCC"|&#x057A;||bgcolor="#FFDDCC"|&#x057B;||bgcolor="#FFDDCC"|&#x057C;||bgcolor="#FFDDCC"|&#x057D;||bgcolor="#FFDDCC"|&#x057E;||bgcolor="#FFDDCC"|&#x057F;
+|-
+!0580
+|bgcolor="#FFDDCC"|&#x0580;||bgcolor="#FFDDCC"|&#x0581;||bgcolor="#FFDDCC"|&#x0582;||bgcolor="#FFDDCC"|&#x0583;||bgcolor="#FFDDCC"|&#x0584;||bgcolor="#FFDDCC"|&#x0585;||bgcolor="#FFDDCC"|&#x0586;||bgcolor="#FFDDCC"|&#x0587;||bgcolor="#CCCCCC" colspan="1"|&nbsp;||bgcolor="#FFDDCC"|&#x0589;||bgcolor="#FFDDCC"|&#x058A;||bgcolor="#CCCCCC" colspan="5"|&nbsp;
+|-
+!colspan="17" bgcolor="#CCCCCC"| 
+|-
+!10D0
+|bgcolor="#FFDDCC"|&#x10D0;||bgcolor="#FFDDCC"|&#x10D1;||bgcolor="#FFDDCC"|&#x10D2;||bgcolor="#FFDDCC"|&#x10D3;||bgcolor="#FFDDCC"|&#x10D4;||bgcolor="#FFDDCC"|&#x10D5;||bgcolor="#FFDDCC"|&#x10D6;||bgcolor="#FFDDCC"|&#x10D7;||bgcolor="#FFDDCC"|&#x10D8;||bgcolor="#FFDDCC"|&#x10D9;||bgcolor="#FFDDCC"|&#x10DA;||bgcolor="#FFDDCC"|&#x10DB;||bgcolor="#FFDDCC"|&#x10DC;||bgcolor="#FFDDCC"|&#x10DD;||bgcolor="#FFDDCC"|&#x10DE;||bgcolor="#FFDDCC"|&#x10DF;
+|-
+!10E0
+|bgcolor="#FFDDCC"|&#x10E0;||bgcolor="#FFDDCC"|&#x10E1;||bgcolor="#FFDDCC"|&#x10E2;||bgcolor="#FFDDCC"|&#x10E3;||bgcolor="#FFDDCC"|&#x10E4;||bgcolor="#FFDDCC"|&#x10E5;||bgcolor="#FFDDCC"|&#x10E6;||bgcolor="#FFDDCC"|&#x10E7;||bgcolor="#FFDDCC"|&#x10E8;||bgcolor="#FFDDCC"|&#x10E9;||bgcolor="#FFDDCC"|&#x10EA;||bgcolor="#FFDDCC"|&#x10EB;||bgcolor="#FFDDCC"|&#x10EC;||bgcolor="#FFDDCC"|&#x10ED;||bgcolor="#FFDDCC"|&#x10EE;||bgcolor="#FFDDCC"|&#x10EF;
+|-
+!10F0
+|bgcolor="#FFDDCC"|&#x10F0;||bgcolor="#FFDDCC"|&#x10F1;||bgcolor="#FFDDCC"|&#x10F2;||bgcolor="#FFDDCC"|&#x10F3;||bgcolor="#FFDDCC"|&#x10F4;||bgcolor="#FFDDCC"|&#x10F5;||bgcolor="#FFDDCC"|&#x10F6;||bgcolor="#CCCCCC" colspan="4"|&nbsp;||bgcolor="#FFDDCC"|&#x10FB;||bgcolor="#CCCCCC" colspan="4"|&nbsp;
+|-
+!colspan="17" bgcolor="#CCCCCC"| 
+|-
+!1E00
+|bgcolor="#FFDDCC"|&#x1E00;||bgcolor="#FFDDCC"|&#x1E01;||bgcolor="#FFFF88"|&#x1E02;||bgcolor="#FFFF88"|&#x1E03;||bgcolor="#FFDDCC"|&#x1E04;||bgcolor="#FFDDCC"|&#x1E05;||bgcolor="#FFDDCC"|&#x1E06;||bgcolor="#FFDDCC"|&#x1E07;||bgcolor="#FFDDCC"|&#x1E08;||bgcolor="#FFDDCC"|&#x1E09;||bgcolor="#FFFF88"|&#x1E0A;||bgcolor="#FFFF88"|&#x1E0B;||bgcolor="#FFDDCC"|&#x1E0C;||bgcolor="#FFDDCC"|&#x1E0D;||bgcolor="#FFDDCC"|&#x1E0E;||bgcolor="#FFDDCC"|&#x1E0F;
+|-
+!1E10
+|bgcolor="#FFDDCC"|&#x1E10;||bgcolor="#FFDDCC"|&#x1E11;||bgcolor="#FFDDCC"|&#x1E12;||bgcolor="#FFDDCC"|&#x1E13;||bgcolor="#FFDDCC"|&#x1E14;||bgcolor="#FFDDCC"|&#x1E15;||bgcolor="#FFDDCC"|&#x1E16;||bgcolor="#FFDDCC"|&#x1E17;||bgcolor="#FFDDCC"|&#x1E18;||bgcolor="#FFDDCC"|&#x1E19;||bgcolor="#FFDDCC"|&#x1E1A;||bgcolor="#FFDDCC"|&#x1E1B;||bgcolor="#FFDDCC"|&#x1E1C;||bgcolor="#FFDDCC"|&#x1E1D;||bgcolor="#FFFF88"|&#x1E1E;||bgcolor="#FFFF88"|&#x1E1F;
+|-
+!1E20
+|bgcolor="#FFDDCC"|&#x1E20;||bgcolor="#FFDDCC"|&#x1E21;||bgcolor="#FFDDCC"|&#x1E22;||bgcolor="#FFDDCC"|&#x1E23;||bgcolor="#FFDDCC"|&#x1E24;||bgcolor="#FFDDCC"|&#x1E25;||bgcolor="#FFDDCC"|&#x1E26;||bgcolor="#FFDDCC"|&#x1E27;||bgcolor="#FFDDCC"|&#x1E28;||bgcolor="#FFDDCC"|&#x1E29;||bgcolor="#FFDDCC"|&#x1E2A;||bgcolor="#FFDDCC"|&#x1E2B;||bgcolor="#FFDDCC"|&#x1E2C;||bgcolor="#FFDDCC"|&#x1E2D;||bgcolor="#FFDDCC"|&#x1E2E;||bgcolor="#FFDDCC"|&#x1E2F;
+|-
+!1E30
+|bgcolor="#FFDDCC"|&#x1E30;||bgcolor="#FFDDCC"|&#x1E31;||bgcolor="#FFDDCC"|&#x1E32;||bgcolor="#FFDDCC"|&#x1E33;||bgcolor="#FFDDCC"|&#x1E34;||bgcolor="#FFDDCC"|&#x1E35;||bgcolor="#FFDDCC"|&#x1E36;||bgcolor="#FFDDCC"|&#x1E37;||bgcolor="#FFDDCC"|&#x1E38;||bgcolor="#FFDDCC"|&#x1E39;||bgcolor="#FFDDCC"|&#x1E3A;||bgcolor="#FFDDCC"|&#x1E3B;||bgcolor="#FFDDCC"|&#x1E3C;||bgcolor="#FFDDCC"|&#x1E3D;||bgcolor="#FFDDCC"|&#x1E3E;||bgcolor="#FFDDCC"|&#x1E3F;
+|-
+!1E40
+|bgcolor="#FFFF88"|&#x1E40;||bgcolor="#FFFF88"|&#x1E41;||bgcolor="#FFDDCC"|&#x1E42;||bgcolor="#FFDDCC"|&#x1E43;||bgcolor="#FFDDCC"|&#x1E44;||bgcolor="#FFDDCC"|&#x1E45;||bgcolor="#FFDDCC"|&#x1E46;||bgcolor="#FFDDCC"|&#x1E47;||bgcolor="#FFDDCC"|&#x1E48;||bgcolor="#FFDDCC"|&#x1E49;||bgcolor="#FFDDCC"|&#x1E4A;||bgcolor="#FFDDCC"|&#x1E4B;||bgcolor="#FFDDCC"|&#x1E4C;||bgcolor="#FFDDCC"|&#x1E4D;||bgcolor="#FFDDCC"|&#x1E4E;||bgcolor="#FFDDCC"|&#x1E4F;
+|-
+!1E50
+|bgcolor="#FFDDCC"|&#x1E50;||bgcolor="#FFDDCC"|&#x1E51;||bgcolor="#FFDDCC"|&#x1E52;||bgcolor="#FFDDCC"|&#x1E53;||bgcolor="#FFDDCC"|&#x1E54;||bgcolor="#FFDDCC"|&#x1E55;||bgcolor="#FFFF88"|&#x1E56;||bgcolor="#FFFF88"|&#x1E57;||bgcolor="#FFDDCC"|&#x1E58;||bgcolor="#FFDDCC"|&#x1E59;||bgcolor="#FFDDCC"|&#x1E5A;||bgcolor="#FFDDCC"|&#x1E5B;||bgcolor="#FFDDCC"|&#x1E5C;||bgcolor="#FFDDCC"|&#x1E5D;||bgcolor="#FFDDCC"|&#x1E5E;||bgcolor="#FFDDCC"|&#x1E5F;
+|-
+!1E60
+|bgcolor="#FFFF88"|&#x1E60;||bgcolor="#FFFF88"|&#x1E61;||bgcolor="#FFDDCC"|&#x1E62;||bgcolor="#FFDDCC"|&#x1E63;||bgcolor="#FFDDCC"|&#x1E64;||bgcolor="#FFDDCC"|&#x1E65;||bgcolor="#FFDDCC"|&#x1E66;||bgcolor="#FFDDCC"|&#x1E67;||bgcolor="#FFDDCC"|&#x1E68;||bgcolor="#FFDDCC"|&#x1E69;||bgcolor="#FFFF88"|&#x1E6A;||bgcolor="#FFFF88"|&#x1E6B;||bgcolor="#FFDDCC"|&#x1E6C;||bgcolor="#FFDDCC"|&#x1E6D;||bgcolor="#FFDDCC"|&#x1E6E;||bgcolor="#FFDDCC"|&#x1E6F;
+|-
+!1E70
+|bgcolor="#FFDDCC"|&#x1E70;||bgcolor="#FFDDCC"|&#x1E71;||bgcolor="#FFDDCC"|&#x1E72;||bgcolor="#FFDDCC"|&#x1E73;||bgcolor="#FFDDCC"|&#x1E74;||bgcolor="#FFDDCC"|&#x1E75;||bgcolor="#FFDDCC"|&#x1E76;||bgcolor="#FFDDCC"|&#x1E77;||bgcolor="#FFDDCC"|&#x1E78;||bgcolor="#FFDDCC"|&#x1E79;||bgcolor="#FFDDCC"|&#x1E7A;||bgcolor="#FFDDCC"|&#x1E7B;||bgcolor="#FFDDCC"|&#x1E7C;||bgcolor="#FFDDCC"|&#x1E7D;||bgcolor="#FFDDCC"|&#x1E7E;||bgcolor="#FFDDCC"|&#x1E7F;
+|-
+!1E80
+|Ẁ||ẁ||Ẃ||ẃ||Ẅ||ẅ||bgcolor="#FFDDCC"|&#x1E86;||bgcolor="#FFDDCC"|&#x1E87;||bgcolor="#FFDDCC"|&#x1E88;||bgcolor="#FFDDCC"|&#x1E89;||bgcolor="#FFDDCC"|&#x1E8A;||bgcolor="#FFDDCC"|&#x1E8B;||bgcolor="#FFDDCC"|&#x1E8C;||bgcolor="#FFDDCC"|&#x1E8D;||bgcolor="#FFDDCC"|&#x1E8E;||bgcolor="#FFDDCC"|&#x1E8F;
+|-
+!1E90
+|bgcolor="#FFDDCC"|&#x1E90;||bgcolor="#FFDDCC"|&#x1E91;||bgcolor="#FFDDCC"|&#x1E92;||bgcolor="#FFDDCC"|&#x1E93;||bgcolor="#FFDDCC"|&#x1E94;||bgcolor="#FFDDCC"|&#x1E95;||bgcolor="#FFDDCC"|&#x1E96;||bgcolor="#FFDDCC"|&#x1E97;||bgcolor="#FFDDCC"|&#x1E98;||bgcolor="#FFDDCC"|&#x1E99;||bgcolor="#FFDDCC"|&#x1E9A;||bgcolor="#FFFF88"|&#x1E9B;||bgcolor="#CCCCCC" colspan="4"|&nbsp;
+|-
+!1EA0
+|bgcolor="#FFDDCC"|&#x1EA0;||bgcolor="#FFDDCC"|&#x1EA1;||bgcolor="#FFDDCC"|&#x1EA2;||bgcolor="#FFDDCC"|&#x1EA3;||bgcolor="#FFDDCC"|&#x1EA4;||bgcolor="#FFDDCC"|&#x1EA5;||bgcolor="#FFDDCC"|&#x1EA6;||bgcolor="#FFDDCC"|&#x1EA7;||bgcolor="#FFDDCC"|&#x1EA8;||bgcolor="#FFDDCC"|&#x1EA9;||bgcolor="#FFDDCC"|&#x1EAA;||bgcolor="#FFDDCC"|&#x1EAB;||bgcolor="#FFDDCC"|&#x1EAC;||bgcolor="#FFDDCC"|&#x1EAD;||bgcolor="#FFDDCC"|&#x1EAE;||bgcolor="#FFDDCC"|&#x1EAF;
+|-
+!1EB0
+|bgcolor="#FFDDCC"|&#x1EB0;||bgcolor="#FFDDCC"|&#x1EB1;||bgcolor="#FFDDCC"|&#x1EB2;||bgcolor="#FFDDCC"|&#x1EB3;||bgcolor="#FFDDCC"|&#x1EB4;||bgcolor="#FFDDCC"|&#x1EB5;||bgcolor="#FFDDCC"|&#x1EB6;||bgcolor="#FFDDCC"|&#x1EB7;||bgcolor="#FFDDCC"|&#x1EB8;||bgcolor="#FFDDCC"|&#x1EB9;||bgcolor="#FFDDCC"|&#x1EBA;||bgcolor="#FFDDCC"|&#x1EBB;||bgcolor="#FFDDCC"|&#x1EBC;||bgcolor="#FFDDCC"|&#x1EBD;||bgcolor="#FFDDCC"|&#x1EBE;||bgcolor="#FFDDCC"|&#x1EBF;
+|-
+!1EC0
+|bgcolor="#FFDDCC"|&#x1EC0;||bgcolor="#FFDDCC"|&#x1EC1;||bgcolor="#FFDDCC"|&#x1EC2;||bgcolor="#FFDDCC"|&#x1EC3;||bgcolor="#FFDDCC"|&#x1EC4;||bgcolor="#FFDDCC"|&#x1EC5;||bgcolor="#FFDDCC"|&#x1EC6;||bgcolor="#FFDDCC"|&#x1EC7;||bgcolor="#FFDDCC"|&#x1EC8;||bgcolor="#FFDDCC"|&#x1EC9;||bgcolor="#FFDDCC"|&#x1ECA;||bgcolor="#FFDDCC"|&#x1ECB;||bgcolor="#FFDDCC"|&#x1ECC;||bgcolor="#FFDDCC"|&#x1ECD;||bgcolor="#FFDDCC"|&#x1ECE;||bgcolor="#FFDDCC"|&#x1ECF;
+|-
+!1ED0
+|bgcolor="#FFDDCC"|&#x1ED0;||bgcolor="#FFDDCC"|&#x1ED1;||bgcolor="#FFDDCC"|&#x1ED2;||bgcolor="#FFDDCC"|&#x1ED3;||bgcolor="#FFDDCC"|&#x1ED4;||bgcolor="#FFDDCC"|&#x1ED5;||bgcolor="#FFDDCC"|&#x1ED6;||bgcolor="#FFDDCC"|&#x1ED7;||bgcolor="#FFDDCC"|&#x1ED8;||bgcolor="#FFDDCC"|&#x1ED9;||bgcolor="#FFDDCC"|&#x1EDA;||bgcolor="#FFDDCC"|&#x1EDB;||bgcolor="#FFDDCC"|&#x1EDC;||bgcolor="#FFDDCC"|&#x1EDD;||bgcolor="#FFDDCC"|&#x1EDE;||bgcolor="#FFDDCC"|&#x1EDF;
+|-
+!1EE0
+|bgcolor="#FFDDCC"|&#x1EE0;||bgcolor="#FFDDCC"|&#x1EE1;||bgcolor="#FFDDCC"|&#x1EE2;||bgcolor="#FFDDCC"|&#x1EE3;||bgcolor="#FFDDCC"|&#x1EE4;||bgcolor="#FFDDCC"|&#x1EE5;||bgcolor="#FFDDCC"|&#x1EE6;||bgcolor="#FFDDCC"|&#x1EE7;||bgcolor="#FFDDCC"|&#x1EE8;||bgcolor="#FFDDCC"|&#x1EE9;||bgcolor="#FFDDCC"|&#x1EEA;||bgcolor="#FFDDCC"|&#x1EEB;||bgcolor="#FFDDCC"|&#x1EEC;||bgcolor="#FFDDCC"|&#x1EED;||bgcolor="#FFDDCC"|&#x1EEE;||bgcolor="#FFDDCC"|&#x1EEF;
+|-
+!1EF0
+|bgcolor="#FFDDCC"|&#x1EF0;||bgcolor="#FFDDCC"|&#x1EF1;||Ỳ||ỳ||bgcolor="#FFDDCC"|&#x1EF4;||bgcolor="#FFDDCC"|&#x1EF5;||bgcolor="#FFDDCC"|&#x1EF6;||bgcolor="#FFDDCC"|&#x1EF7;||bgcolor="#FFDDCC"|&#x1EF8;||bgcolor="#FFDDCC"|&#x1EF9;||bgcolor="#CCCCCC" colspan="6"|&nbsp;
+|-
+!1F00
+|bgcolor="#FFFF88"|&#x1F00;||bgcolor="#FFFF88"|&#x1F01;||bgcolor="#FFFF88"|&#x1F02;||bgcolor="#FFFF88"|&#x1F03;||bgcolor="#FFFF88"|&#x1F04;||bgcolor="#FFFF88"|&#x1F05;||bgcolor="#FFFF88"|&#x1F06;||bgcolor="#FFFF88"|&#x1F07;||bgcolor="#FFFF88"|&#x1F08;||bgcolor="#FFFF88"|&#x1F09;||bgcolor="#FFFF88"|&#x1F0A;||bgcolor="#FFFF88"|&#x1F0B;||bgcolor="#FFFF88"|&#x1F0C;||bgcolor="#FFFF88"|&#x1F0D;||bgcolor="#FFFF88"|&#x1F0E;||bgcolor="#FFFF88"|&#x1F0F;
+|-
+!1F10
+|bgcolor="#FFFF88"|&#x1F10;||bgcolor="#FFFF88"|&#x1F11;||bgcolor="#FFFF88"|&#x1F12;||bgcolor="#FFFF88"|&#x1F13;||bgcolor="#FFFF88"|&#x1F14;||bgcolor="#FFFF88"|&#x1F15;||bgcolor="#CCCCCC" colspan="2"|&nbsp;||bgcolor="#FFFF88"|&#x1F18;||bgcolor="#FFFF88"|&#x1F19;||bgcolor="#FFFF88"|&#x1F1A;||bgcolor="#FFFF88"|&#x1F1B;||bgcolor="#FFFF88"|&#x1F1C;||bgcolor="#FFFF88"|&#x1F1D;||bgcolor="#CCCCCC" colspan="2"|&nbsp;
+|-
+!1F20
+|bgcolor="#FFFF88"|&#x1F20;||bgcolor="#FFFF88"|&#x1F21;||bgcolor="#FFFF88"|&#x1F22;||bgcolor="#FFFF88"|&#x1F23;||bgcolor="#FFFF88"|&#x1F24;||bgcolor="#FFFF88"|&#x1F25;||bgcolor="#FFFF88"|&#x1F26;||bgcolor="#FFFF88"|&#x1F27;||bgcolor="#FFFF88"|&#x1F28;||bgcolor="#FFFF88"|&#x1F29;||bgcolor="#FFFF88"|&#x1F2A;||bgcolor="#FFFF88"|&#x1F2B;||bgcolor="#FFFF88"|&#x1F2C;||bgcolor="#FFFF88"|&#x1F2D;||bgcolor="#FFFF88"|&#x1F2E;||bgcolor="#FFFF88"|&#x1F2F;
+|-
+!1F30
+|bgcolor="#FFFF88"|&#x1F30;||bgcolor="#FFFF88"|&#x1F31;||bgcolor="#FFFF88"|&#x1F32;||bgcolor="#FFFF88"|&#x1F33;||bgcolor="#FFFF88"|&#x1F34;||bgcolor="#FFFF88"|&#x1F35;||bgcolor="#FFFF88"|&#x1F36;||bgcolor="#FFFF88"|&#x1F37;||bgcolor="#FFFF88"|&#x1F38;||bgcolor="#FFFF88"|&#x1F39;||bgcolor="#FFFF88"|&#x1F3A;||bgcolor="#FFFF88"|&#x1F3B;||bgcolor="#FFFF88"|&#x1F3C;||bgcolor="#FFFF88"|&#x1F3D;||bgcolor="#FFFF88"|&#x1F3E;||bgcolor="#FFFF88"|&#x1F3F;
+|-
+!1F40
+|bgcolor="#FFFF88"|&#x1F40;||bgcolor="#FFFF88"|&#x1F41;||bgcolor="#FFFF88"|&#x1F42;||bgcolor="#FFFF88"|&#x1F43;||bgcolor="#FFFF88"|&#x1F44;||bgcolor="#FFFF88"|&#x1F45;||bgcolor="#CCCCCC" colspan="2"|&nbsp;||bgcolor="#FFFF88"|&#x1F48;||bgcolor="#FFFF88"|&#x1F49;||bgcolor="#FFFF88"|&#x1F4A;||bgcolor="#FFFF88"|&#x1F4B;||bgcolor="#FFFF88"|&#x1F4C;||bgcolor="#FFFF88"|&#x1F4D;||bgcolor="#CCCCCC" colspan="2"|&nbsp;
+|-
+!1F50
+|bgcolor="#FFFF88"|&#x1F50;||bgcolor="#FFFF88"|&#x1F51;||bgcolor="#FFFF88"|&#x1F52;||bgcolor="#FFFF88"|&#x1F53;||bgcolor="#FFFF88"|&#x1F54;||bgcolor="#FFFF88"|&#x1F55;||bgcolor="#FFFF88"|&#x1F56;||bgcolor="#FFFF88"|&#x1F57;||bgcolor="#CCCCCC" colspan="1"|&nbsp;||bgcolor="#FFFF88"|&#x1F59;||bgcolor="#CCCCCC" colspan="1"|&nbsp;||bgcolor="#FFFF88"|&#x1F5B;||bgcolor="#CCCCCC" colspan="1"|&nbsp;||bgcolor="#FFFF88"|&#x1F5D;||bgcolor="#CCCCCC" colspan="1"|&nbsp;||bgcolor="#FFFF88"|&#x1F5F;
+|-
+!1F60
+|bgcolor="#FFFF88"|&#x1F60;||bgcolor="#FFFF88"|&#x1F61;||bgcolor="#FFFF88"|&#x1F62;||bgcolor="#FFFF88"|&#x1F63;||bgcolor="#FFFF88"|&#x1F64;||bgcolor="#FFFF88"|&#x1F65;||bgcolor="#FFFF88"|&#x1F66;||bgcolor="#FFFF88"|&#x1F67;||bgcolor="#FFFF88"|&#x1F68;||bgcolor="#FFFF88"|&#x1F69;||bgcolor="#FFFF88"|&#x1F6A;||bgcolor="#FFFF88"|&#x1F6B;||bgcolor="#FFFF88"|&#x1F6C;||bgcolor="#FFFF88"|&#x1F6D;||bgcolor="#FFFF88"|&#x1F6E;||bgcolor="#FFFF88"|&#x1F6F;
+|-
+!1F70
+|bgcolor="#FFFF88"|&#x1F70;||bgcolor="#FFFF88"|&#x1F71;||bgcolor="#FFFF88"|&#x1F72;||bgcolor="#FFFF88"|&#x1F73;||bgcolor="#FFFF88"|&#x1F74;||bgcolor="#FFFF88"|&#x1F75;||bgcolor="#FFFF88"|&#x1F76;||bgcolor="#FFFF88"|&#x1F77;||bgcolor="#FFFF88"|&#x1F78;||bgcolor="#FFFF88"|&#x1F79;||bgcolor="#FFFF88"|&#x1F7A;||bgcolor="#FFFF88"|&#x1F7B;||bgcolor="#FFFF88"|&#x1F7C;||bgcolor="#FFFF88"|&#x1F7D;||bgcolor="#CCCCCC" colspan="2"|&nbsp;
+|-
+!1F80
+|bgcolor="#FFFF88"|&#x1F80;||bgcolor="#FFFF88"|&#x1F81;||bgcolor="#FFFF88"|&#x1F82;||bgcolor="#FFFF88"|&#x1F83;||bgcolor="#FFFF88"|&#x1F84;||bgcolor="#FFFF88"|&#x1F85;||bgcolor="#FFFF88"|&#x1F86;||bgcolor="#FFFF88"|&#x1F87;||bgcolor="#FFFF88"|&#x1F88;||bgcolor="#FFFF88"|&#x1F89;||bgcolor="#FFFF88"|&#x1F8A;||bgcolor="#FFFF88"|&#x1F8B;||bgcolor="#FFFF88"|&#x1F8C;||bgcolor="#FFFF88"|&#x1F8D;||bgcolor="#FFFF88"|&#x1F8E;||bgcolor="#FFFF88"|&#x1F8F;
+|-
+!1F90
+|bgcolor="#FFFF88"|&#x1F90;||bgcolor="#FFFF88"|&#x1F91;||bgcolor="#FFFF88"|&#x1F92;||bgcolor="#FFFF88"|&#x1F93;||bgcolor="#FFFF88"|&#x1F94;||bgcolor="#FFFF88"|&#x1F95;||bgcolor="#FFFF88"|&#x1F96;||bgcolor="#FFFF88"|&#x1F97;||bgcolor="#FFFF88"|&#x1F98;||bgcolor="#FFFF88"|&#x1F99;||bgcolor="#FFFF88"|&#x1F9A;||bgcolor="#FFFF88"|&#x1F9B;||bgcolor="#FFFF88"|&#x1F9C;||bgcolor="#FFFF88"|&#x1F9D;||bgcolor="#FFFF88"|&#x1F9E;||bgcolor="#FFFF88"|&#x1F9F;
+|-
+!1FA0
+|bgcolor="#FFFF88"|&#x1FA0;||bgcolor="#FFFF88"|&#x1FA1;||bgcolor="#FFFF88"|&#x1FA2;||bgcolor="#FFFF88"|&#x1FA3;||bgcolor="#FFFF88"|&#x1FA4;||bgcolor="#FFFF88"|&#x1FA5;||bgcolor="#FFFF88"|&#x1FA6;||bgcolor="#FFFF88"|&#x1FA7;||bgcolor="#FFFF88"|&#x1FA8;||bgcolor="#FFFF88"|&#x1FA9;||bgcolor="#FFFF88"|&#x1FAA;||bgcolor="#FFFF88"|&#x1FAB;||bgcolor="#FFFF88"|&#x1FAC;||bgcolor="#FFFF88"|&#x1FAD;||bgcolor="#FFFF88"|&#x1FAE;||bgcolor="#FFFF88"|&#x1FAF;
+|-
+!1FB0
+|bgcolor="#FFFF88"|&#x1FB0;||bgcolor="#FFFF88"|&#x1FB1;||bgcolor="#FFFF88"|&#x1FB2;||bgcolor="#FFFF88"|&#x1FB3;||bgcolor="#FFFF88"|&#x1FB4;||bgcolor="#CCCCCC" colspan="1"|&nbsp;||bgcolor="#FFFF88"|&#x1FB6;||bgcolor="#FFFF88"|&#x1FB7;||bgcolor="#FFFF88"|&#x1FB8;||bgcolor="#FFFF88"|&#x1FB9;||bgcolor="#FFFF88"|&#x1FBA;||bgcolor="#FFFF88"|&#x1FBB;||bgcolor="#FFFF88"|&#x1FBC;||bgcolor="#FFFF88"|&#x1FBD;||bgcolor="#FFFF88"|&#x1FBE;||bgcolor="#FFFF88"|&#x1FBF;
+|-
+!1FC0
+|bgcolor="#FFFF88"|&#x1FC0;||bgcolor="#FFFF88"|&#x1FC1;||bgcolor="#FFFF88"|&#x1FC2;||bgcolor="#FFFF88"|&#x1FC3;||bgcolor="#FFFF88"|&#x1FC4;||bgcolor="#CCCCCC" colspan="1"|&nbsp;||bgcolor="#FFFF88"|&#x1FC6;||bgcolor="#FFFF88"|&#x1FC7;||bgcolor="#FFFF88"|&#x1FC8;||bgcolor="#FFFF88"|&#x1FC9;||bgcolor="#FFFF88"|&#x1FCA;||bgcolor="#FFFF88"|&#x1FCB;||bgcolor="#FFFF88"|&#x1FCC;||bgcolor="#FFFF88"|&#x1FCD;||bgcolor="#FFFF88"|&#x1FCE;||bgcolor="#FFFF88"|&#x1FCF;
+|-
+!1FD0
+|bgcolor="#FFFF88"|&#x1FD0;||bgcolor="#FFFF88"|&#x1FD1;||bgcolor="#FFFF88"|&#x1FD2;||bgcolor="#FFFF88"|&#x1FD3;||bgcolor="#CCCCCC" colspan="2"|&nbsp;||bgcolor="#FFFF88"|&#x1FD6;||bgcolor="#FFFF88"|&#x1FD7;||bgcolor="#FFFF88"|&#x1FD8;||bgcolor="#FFFF88"|&#x1FD9;||bgcolor="#FFFF88"|&#x1FDA;||bgcolor="#FFFF88"|&#x1FDB;||bgcolor="#CCCCCC" colspan="1"|&nbsp;||bgcolor="#FFFF88"|&#x1FDD;||bgcolor="#FFFF88"|&#x1FDE;||bgcolor="#FFFF88"|&#x1FDF;
+|-
+!1FE0
+|bgcolor="#FFFF88"|&#x1FE0;||bgcolor="#FFFF88"|&#x1FE1;||bgcolor="#FFFF88"|&#x1FE2;||bgcolor="#FFFF88"|&#x1FE3;||bgcolor="#FFFF88"|&#x1FE4;||bgcolor="#FFFF88"|&#x1FE5;||bgcolor="#FFFF88"|&#x1FE6;||bgcolor="#FFFF88"|&#x1FE7;||bgcolor="#FFFF88"|&#x1FE8;||bgcolor="#FFFF88"|&#x1FE9;||bgcolor="#FFFF88"|&#x1FEA;||bgcolor="#FFFF88"|&#x1FEB;||bgcolor="#FFFF88"|&#x1FEC;||bgcolor="#FFFF88"|&#x1FED;||bgcolor="#FFFF88"|&#x1FEE;||bgcolor="#FFFF88"|&#x1FEF;
+|-
+!1FF0
+|bgcolor="#CCCCCC" colspan="2"|&nbsp;||bgcolor="#FFFF88"|&#x1FF2;||bgcolor="#FFFF88"|&#x1FF3;||bgcolor="#FFFF88"|&#x1FF4;||bgcolor="#CCCCCC" colspan="1"|&nbsp;||bgcolor="#FFFF88"|&#x1FF6;||bgcolor="#FFFF88"|&#x1FF7;||bgcolor="#FFFF88"|&#x1FF8;||bgcolor="#FFFF88"|&#x1FF9;||bgcolor="#FFFF88"|&#x1FFA;||bgcolor="#FFFF88"|&#x1FFB;||bgcolor="#FFFF88"|&#x1FFC;||bgcolor="#FFFF88"|&#x1FFD;||bgcolor="#FFFF88"|&#x1FFE;||bgcolor="#CCCCCC" colspan="1"|&nbsp;
+|-
+!2000
+|bgcolor="#FFDDCC"|&#x2000;||bgcolor="#FFDDCC"|&#x2001;||bgcolor="#FFDDCC"|&#x2002;||bgcolor="#FFDDCC"|&#x2003;||bgcolor="#FFDDCC"|&#x2004;||bgcolor="#FFDDCC"|&#x2005;||bgcolor="#FFDDCC"|&#x2006;||bgcolor="#FFDDCC"|&#x2007;||bgcolor="#FFDDCC"|&#x2008;||bgcolor="#FFDDCC"|&#x2009;||bgcolor="#FFDDCC"|&#x200A;||bgcolor="#FFDDCC"|&#x200B;||bgcolor="#FFDDCC"|&#x200C;||bgcolor="#FFDDCC"|&#x200D;||bgcolor="#FFDDCC"|&#x200E;||bgcolor="#FFDDCC"|&#x200F;
+|-
+!2010
+|bgcolor="#FFDDCC"|&#x2010;||bgcolor="#FFDDCC"|&#x2011;||bgcolor="#FFDDCC"|&#x2012;||–||—||―||bgcolor="#FFDDCC"|&#x2016;||‗||‘||’||‚||‛||“||”||„||bgcolor="#FFDDCC"|&#x201F;
+|-
+!2020
+|†||‡||•||bgcolor="#FFDDCC"|&#x2023;||bgcolor="#FFDDCC"|&#x2024;||bgcolor="#FFDDCC"|&#x2025;||…||bgcolor="#FFDDCC"|&#x2027;||bgcolor="#FFDDCC"|&#x2028;||bgcolor="#FFDDCC"|&#x2029;||bgcolor="#FFDDCC"|&#x202A;||bgcolor="#FFDDCC"|&#x202B;||bgcolor="#FFDDCC"|&#x202C;||bgcolor="#FFDDCC"|&#x202D;||bgcolor="#FFDDCC"|&#x202E;||bgcolor="#FFDDCC"|&#x202F;
+|-
+!2030
+|‰||bgcolor="#FFDDCC"|&#x2031;||′||″||bgcolor="#FFDDCC"|&#x2034;||bgcolor="#FFDDCC"|&#x2035;||bgcolor="#FFDDCC"|&#x2036;||bgcolor="#FFDDCC"|&#x2037;||bgcolor="#FFDDCC"|&#x2038;||‹||›||bgcolor="#FFDDCC"|&#x203B;||‼||bgcolor="#FFDDCC"|&#x203D;||‾||bgcolor="#FFDDCC"|&#x203F;
+|-
+!2040
+|bgcolor="#FFDDCC"|&#x2040;||bgcolor="#FFDDCC"|&#x2041;||bgcolor="#FFDDCC"|&#x2042;||bgcolor="#FFDDCC"|&#x2043;||⁄||bgcolor="#FFDDCC"|&#x2045;||bgcolor="#FFDDCC"|&#x2046;||bgcolor="#CCCCCC" colspan="1"|&nbsp;||bgcolor="#FFDDCC"|&#x2048;||bgcolor="#FFDDCC"|&#x2049;||bgcolor="#FFFF88"|&#x204A;||bgcolor="#FFDDCC"|&#x204B;||bgcolor="#FFDDCC"|&#x204C;||bgcolor="#FFDDCC"|&#x204D;||bgcolor="#CCCCCC" colspan="2"|&nbsp;
+|-
+!colspan="17" bgcolor="#CCCCCC"| 
+|-
+!2060
+|bgcolor="#CCCCCC" colspan="10"|&nbsp;||bgcolor="#FFDDCC"|&#x206A;||bgcolor="#FFDDCC"|&#x206B;||bgcolor="#FFDDCC"|&#x206C;||bgcolor="#FFDDCC"|&#x206D;||bgcolor="#FFDDCC"|&#x206E;||bgcolor="#FFDDCC"|&#x206F;
+|-
+!2070
+|bgcolor="#FFDDCC"|&#x2070;||bgcolor="#CCCCCC" colspan="3"|&nbsp;||bgcolor="#FFDDCC"|&#x2074;||bgcolor="#FFDDCC"|&#x2075;||bgcolor="#FFDDCC"|&#x2076;||bgcolor="#FFDDCC"|&#x2077;||bgcolor="#FFDDCC"|&#x2078;||bgcolor="#FFDDCC"|&#x2079;||bgcolor="#FFDDCC"|&#x207A;||bgcolor="#FFDDCC"|&#x207B;||bgcolor="#FFDDCC"|&#x207C;||bgcolor="#FFDDCC"|&#x207D;||bgcolor="#FFDDCC"|&#x207E;||ⁿ
+|-
+!2080
+|bgcolor="#FFDDCC"|&#x2080;||bgcolor="#FFDDCC"|&#x2081;||bgcolor="#FFFF88"|&#x2082;||bgcolor="#FFDDCC"|&#x2083;||bgcolor="#FFDDCC"|&#x2084;||bgcolor="#FFDDCC"|&#x2085;||bgcolor="#FFDDCC"|&#x2086;||bgcolor="#FFDDCC"|&#x2087;||bgcolor="#FFDDCC"|&#x2088;||bgcolor="#FFDDCC"|&#x2089;||bgcolor="#FFDDCC"|&#x208A;||bgcolor="#FFDDCC"|&#x208B;||bgcolor="#FFDDCC"|&#x208C;||bgcolor="#FFDDCC"|&#x208D;||bgcolor="#FFDDCC"|&#x208E;||bgcolor="#CCCCCC" colspan="1"|&nbsp;
+|-
+!colspan="17" bgcolor="#CCCCCC"| 
+|-
+!20A0
+|bgcolor="#FFDDCC"|&#x20A0;||bgcolor="#FFDDCC"|&#x20A1;||bgcolor="#FFDDCC"|&#x20A2;||₣||₤||bgcolor="#FFDDCC"|&#x20A5;||bgcolor="#FFDDCC"|&#x20A6;||₧||bgcolor="#FFDDCC"|&#x20A8;||bgcolor="#FFDDCC"|&#x20A9;||bgcolor="#FFDDCC"|&#x20AA;||bgcolor="#FFDDCC"|&#x20AB;||€||bgcolor="#FFDDCC"|&#x20AD;||bgcolor="#FFDDCC"|&#x20AE;||bgcolor="#FFFF88"|&#x20AF;
+|-
+!colspan="17" bgcolor="#CCCCCC"| 
+|-
+!20D0
+|bgcolor="#FFDDCC"|&#x20D0;||bgcolor="#FFDDCC"|&#x20D1;||bgcolor="#FFDDCC"|&#x20D2;||bgcolor="#FFDDCC"|&#x20D3;||bgcolor="#FFDDCC"|&#x20D4;||bgcolor="#FFDDCC"|&#x20D5;||bgcolor="#FFDDCC"|&#x20D6;||bgcolor="#FFDDCC"|&#x20D7;||bgcolor="#FFDDCC"|&#x20D8;||bgcolor="#FFDDCC"|&#x20D9;||bgcolor="#FFDDCC"|&#x20DA;||bgcolor="#FFDDCC"|&#x20DB;||bgcolor="#FFDDCC"|&#x20DC;||bgcolor="#FFDDCC"|&#x20DD;||bgcolor="#FFDDCC"|&#x20DE;||bgcolor="#FFDDCC"|&#x20DF;
+|-
+!20E0
+|bgcolor="#FFDDCC"|&#x20E0;||bgcolor="#FFDDCC"|&#x20E1;||bgcolor="#FFDDCC"|&#x20E2;||bgcolor="#FFDDCC"|&#x20E3;||bgcolor="#CCCCCC" colspan="12"|&nbsp;
+|-
+!colspan="17" bgcolor="#CCCCCC"| 
+|-
+!2100
+|bgcolor="#FFDDCC"|&#x2100;||bgcolor="#FFDDCC"|&#x2101;||bgcolor="#FFDDCC"|&#x2102;||bgcolor="#FFDDCC"|&#x2103;||bgcolor="#FFDDCC"|&#x2104;||℅||bgcolor="#FFDDCC"|&#x2106;||bgcolor="#FFDDCC"|&#x2107;||bgcolor="#FFDDCC"|&#x2108;||bgcolor="#FFDDCC"|&#x2109;||bgcolor="#FFDDCC"|&#x210A;||bgcolor="#FFDDCC"|&#x210B;||bgcolor="#FFDDCC"|&#x210C;||bgcolor="#FFDDCC"|&#x210D;||bgcolor="#FFDDCC"|&#x210E;||bgcolor="#FFDDCC"|&#x210F;
+|-
+!2110
+|bgcolor="#FFDDCC"|&#x2110;||bgcolor="#FFDDCC"|&#x2111;||bgcolor="#FFDDCC"|&#x2112;||ℓ||bgcolor="#FFDDCC"|&#x2114;||bgcolor="#FFDDCC"|&#x2115;||№||bgcolor="#FFDDCC"|&#x2117;||bgcolor="#FFDDCC"|&#x2118;||bgcolor="#FFDDCC"|&#x2119;||bgcolor="#FFDDCC"|&#x211A;||bgcolor="#FFDDCC"|&#x211B;||bgcolor="#FFDDCC"|&#x211C;||bgcolor="#FFDDCC"|&#x211D;||bgcolor="#FFDDCC"|&#x211E;||bgcolor="#FFDDCC"|&#x211F;
+|-
+!2120
+|bgcolor="#FFDDCC"|&#x2120;||bgcolor="#FFDDCC"|&#x2121;||™||bgcolor="#FFDDCC"|&#x2123;||bgcolor="#FFDDCC"|&#x2124;||bgcolor="#FFDDCC"|&#x2125;||Ω||bgcolor="#FFDDCC"|&#x2127;||bgcolor="#FFDDCC"|&#x2128;||bgcolor="#FFDDCC"|&#x2129;||bgcolor="#FFDDCC"|&#x212A;||bgcolor="#FFDDCC"|&#x212B;||bgcolor="#FFDDCC"|&#x212C;||bgcolor="#FFDDCC"|&#x212D;||℮||bgcolor="#FFDDCC"|&#x212F;
+|-
+!2130
+|bgcolor="#FFDDCC"|&#x2130;||bgcolor="#FFDDCC"|&#x2131;||bgcolor="#FFDDCC"|&#x2132;||bgcolor="#FFDDCC"|&#x2133;||bgcolor="#FFDDCC"|&#x2134;||bgcolor="#FFDDCC"|&#x2135;||bgcolor="#FFDDCC"|&#x2136;||bgcolor="#FFDDCC"|&#x2137;||bgcolor="#FFDDCC"|&#x2138;||bgcolor="#FFDDCC"|&#x2139;||bgcolor="#FFDDCC"|&#x213A;||bgcolor="#CCCCCC" colspan="5"|&nbsp;
+|-
+!colspan="17" bgcolor="#CCCCCC"| 
+|-
+!2150
+|bgcolor="#CCCCCC" colspan="3"|&nbsp;||bgcolor="#FFDDCC"|&#x2153;||bgcolor="#FFDDCC"|&#x2154;||bgcolor="#FFDDCC"|&#x2155;||bgcolor="#FFDDCC"|&#x2156;||bgcolor="#FFDDCC"|&#x2157;||bgcolor="#FFDDCC"|&#x2158;||bgcolor="#FFDDCC"|&#x2159;||bgcolor="#FFDDCC"|&#x215A;||⅛
+||⅜||⅝||⅞||bgcolor="#FFDDCC"|&#x215F;
+|-
+!2160
+|bgcolor="#FFDDCC"|&#x2160;||bgcolor="#FFDDCC"|&#x2161;||bgcolor="#FFDDCC"|&#x2162;||bgcolor="#FFDDCC"|&#x2163;||bgcolor="#FFDDCC"|&#x2164;||bgcolor="#FFDDCC"|&#x2165;||bgcolor="#FFDDCC"|&#x2166;||bgcolor="#FFDDCC"|&#x2167;||bgcolor="#FFDDCC"|&#x2168;||bgcolor="#FFDDCC"|&#x2169;||bgcolor="#FFDDCC"|&#x216A;||bgcolor="#FFDDCC"|&#x216B;||bgcolor="#FFDDCC"|&#x216C;||bgcolor="#FFDDCC"|&#x216D;||bgcolor="#FFDDCC"|&#x216E;||bgcolor="#FFDDCC"|&#x216F;
+|-
+!2170
+|bgcolor="#FFDDCC"|&#x2170;||bgcolor="#FFDDCC"|&#x2171;||bgcolor="#FFDDCC"|&#x2172;||bgcolor="#FFDDCC"|&#x2173;||bgcolor="#FFDDCC"|&#x2174;||bgcolor="#FFDDCC"|&#x2175;||bgcolor="#FFDDCC"|&#x2176;||bgcolor="#FFDDCC"|&#x2177;||bgcolor="#FFDDCC"|&#x2178;||bgcolor="#FFDDCC"|&#x2179;||bgcolor="#FFDDCC"|&#x217A;||bgcolor="#FFDDCC"|&#x217B;||bgcolor="#FFDDCC"|&#x217C;||bgcolor="#FFDDCC"|&#x217D;||bgcolor="#FFDDCC"|&#x217E;||bgcolor="#FFDDCC"|&#x217F;
+|-
+!2180
+|bgcolor="#FFDDCC"|&#x2180;||bgcolor="#FFDDCC"|&#x2181;||bgcolor="#FFDDCC"|&#x2182;||bgcolor="#FFDDCC"|&#x2183;||bgcolor="#CCCCCC" colspan="12"|&nbsp;
+|-
+!2190
+|←||↑||→||↓||↔||↕||bgcolor="#FFDDCC"|&#x2196;||bgcolor="#FFDDCC"|&#x2197;||bgcolor="#FFDDCC"|&#x2198;||bgcolor="#FFDDCC"|&#x2199;||bgcolor="#FFDDCC"|&#x219A;||bgcolor="#FFDDCC"|&#x219B;||bgcolor="#FFDDCC"|&#x219C;||bgcolor="#FFDDCC"|&#x219D;||bgcolor="#FFDDCC"|&#x219E;||bgcolor="#FFDDCC"|&#x219F;
+|-
+!21A0
+|bgcolor="#FFDDCC"|&#x21A0;||bgcolor="#FFDDCC"|&#x21A1;||bgcolor="#FFDDCC"|&#x21A2;||bgcolor="#FFDDCC"|&#x21A3;||bgcolor="#FFDDCC"|&#x21A4;||bgcolor="#FFDDCC"|&#x21A5;||bgcolor="#FFDDCC"|&#x21A6;||bgcolor="#FFDDCC"|&#x21A7;||↨||bgcolor="#FFDDCC"|&#x21A9;||bgcolor="#FFDDCC"|&#x21AA;||bgcolor="#FFDDCC"|&#x21AB;||bgcolor="#FFDDCC"|&#x21AC;||bgcolor="#FFDDCC"|&#x21AD;||bgcolor="#FFDDCC"|&#x21AE;||bgcolor="#FFDDCC"|&#x21AF;
+|-
+!21B0
+|bgcolor="#FFDDCC"|&#x21B0;||bgcolor="#FFDDCC"|&#x21B1;||bgcolor="#FFDDCC"|&#x21B2;||bgcolor="#FFDDCC"|&#x21B3;||bgcolor="#FFDDCC"|&#x21B4;||bgcolor="#FFDDCC"|&#x21B5;||bgcolor="#FFDDCC"|&#x21B6;||bgcolor="#FFDDCC"|&#x21B7;||bgcolor="#FFDDCC"|&#x21B8;||bgcolor="#FFDDCC"|&#x21B9;||bgcolor="#FFDDCC"|&#x21BA;||bgcolor="#FFDDCC"|&#x21BB;||bgcolor="#FFDDCC"|&#x21BC;||bgcolor="#FFDDCC"|&#x21BD;||bgcolor="#FFDDCC"|&#x21BE;||bgcolor="#FFDDCC"|&#x21BF;
+|-
+!21C0
+|bgcolor="#FFDDCC"|&#x21C0;||bgcolor="#FFDDCC"|&#x21C1;||bgcolor="#FFDDCC"|&#x21C2;||bgcolor="#FFDDCC"|&#x21C3;||bgcolor="#FFDDCC"|&#x21C4;||bgcolor="#FFDDCC"|&#x21C5;||bgcolor="#FFDDCC"|&#x21C6;||bgcolor="#FFDDCC"|&#x21C7;||bgcolor="#FFDDCC"|&#x21C8;||bgcolor="#FFDDCC"|&#x21C9;||bgcolor="#FFDDCC"|&#x21CA;||bgcolor="#FFDDCC"|&#x21CB;||bgcolor="#FFDDCC"|&#x21CC;||bgcolor="#FFDDCC"|&#x21CD;||bgcolor="#FFDDCC"|&#x21CE;||bgcolor="#FFDDCC"|&#x21CF;
+|-
+!21D0
+|bgcolor="#FFDDCC"|&#x21D0;||bgcolor="#FFDDCC"|&#x21D1;||bgcolor="#FFDDCC"|&#x21D2;||bgcolor="#FFDDCC"|&#x21D3;||bgcolor="#FFDDCC"|&#x21D4;||bgcolor="#FFDDCC"|&#x21D5;||bgcolor="#FFDDCC"|&#x21D6;||bgcolor="#FFDDCC"|&#x21D7;||bgcolor="#FFDDCC"|&#x21D8;||bgcolor="#FFDDCC"|&#x21D9;||bgcolor="#FFDDCC"|&#x21DA;||bgcolor="#FFDDCC"|&#x21DB;||bgcolor="#FFDDCC"|&#x21DC;||bgcolor="#FFDDCC"|&#x21DD;||bgcolor="#FFDDCC"|&#x21DE;||bgcolor="#FFDDCC"|&#x21DF;
+|-
+!21E0
+|bgcolor="#FFDDCC"|&#x21E0;||bgcolor="#FFDDCC"|&#x21E1;||bgcolor="#FFDDCC"|&#x21E2;||bgcolor="#FFDDCC"|&#x21E3;||bgcolor="#FFDDCC"|&#x21E4;||bgcolor="#FFDDCC"|&#x21E5;||bgcolor="#FFDDCC"|&#x21E6;||bgcolor="#FFDDCC"|&#x21E7;||bgcolor="#FFDDCC"|&#x21E8;||bgcolor="#FFDDCC"|&#x21E9;||bgcolor="#FFDDCC"|&#x21EA;||bgcolor="#FFDDCC"|&#x21EB;||bgcolor="#FFDDCC"|&#x21EC;||bgcolor="#FFDDCC"|&#x21ED;||bgcolor="#FFDDCC"|&#x21EE;||bgcolor="#FFDDCC"|&#x21EF;
+|-
+!21F0
+|bgcolor="#FFDDCC"|&#x21F0;||bgcolor="#FFDDCC"|&#x21F1;||bgcolor="#FFDDCC"|&#x21F2;||bgcolor="#FFDDCC"|&#x21F3;||bgcolor="#CCCCCC" colspan="12"|&nbsp;
+|-
+!2200
+|bgcolor="#FFFF88"|&#x2200;||bgcolor="#FFDDCC"|&#x2201;||∂||bgcolor="#FFFF88"|&#x2203;||bgcolor="#FFDDCC"|&#x2204;||bgcolor="#FFDDCC"|&#x2205;||∆||bgcolor="#FFDDCC"|&#x2207;||bgcolor="#FFFF88"|&#x2208;||bgcolor="#FFFF88"|&#x2209;||bgcolor="#FFDDCC"|&#x220A;||bgcolor="#FFDDCC"|&#x220B;||bgcolor="#FFDDCC"|&#x220C;||bgcolor="#FFDDCC"|&#x220D;||bgcolor="#FFDDCC"|&#x220E;||∏
+|-
+!2210
+|bgcolor="#FFDDCC"|&#x2210;||∑||−||bgcolor="#FFDDCC"|&#x2213;||bgcolor="#FFDDCC"|&#x2214;||∕||bgcolor="#FFDDCC"|&#x2216;||bgcolor="#FFDDCC"|&#x2217;||bgcolor="#FFDDCC"|&#x2218;||∙||√||bgcolor="#FFDDCC"|&#x221B;||bgcolor="#FFDDCC"|&#x221C;||bgcolor="#FFDDCC"|&#x221D;||∞||∟
+|-
+!2220
+|bgcolor="#FFDDCC"|&#x2220;||bgcolor="#FFDDCC"|&#x2221;||bgcolor="#FFDDCC"|&#x2222;||bgcolor="#FFDDCC"|&#x2223;||bgcolor="#FFDDCC"|&#x2224;||bgcolor="#FFDDCC"|&#x2225;||bgcolor="#FFDDCC"|&#x2226;||bgcolor="#FFFF88"|&#x2227;||bgcolor="#FFFF88"|&#x2228;||∩||bgcolor="#FFFF88"|&#x222A;||∫||bgcolor="#FFDDCC"|&#x222C;||bgcolor="#FFDDCC"|&#x222D;||bgcolor="#FFDDCC"|&#x222E;||bgcolor="#FFDDCC"|&#x222F;
+|-
+!2230
+|bgcolor="#FFDDCC"|&#x2230;||bgcolor="#FFDDCC"|&#x2231;||bgcolor="#FFDDCC"|&#x2232;||bgcolor="#FFDDCC"|&#x2233;||bgcolor="#FFDDCC"|&#x2234;||bgcolor="#FFDDCC"|&#x2235;||bgcolor="#FFDDCC"|&#x2236;||bgcolor="#FFDDCC"|&#x2237;||bgcolor="#FFDDCC"|&#x2238;||bgcolor="#FFDDCC"|&#x2239;||bgcolor="#FFDDCC"|&#x223A;||bgcolor="#FFDDCC"|&#x223B;||bgcolor="#FFDDCC"|&#x223C;||bgcolor="#FFDDCC"|&#x223D;||bgcolor="#FFDDCC"|&#x223E;||bgcolor="#FFDDCC"|&#x223F;
+|-
+!2240
+|bgcolor="#FFDDCC"|&#x2240;||bgcolor="#FFDDCC"|&#x2241;||bgcolor="#FFDDCC"|&#x2242;||bgcolor="#FFDDCC"|&#x2243;||bgcolor="#FFDDCC"|&#x2244;||bgcolor="#FFDDCC"|&#x2245;||bgcolor="#FFDDCC"|&#x2246;||bgcolor="#FFDDCC"|&#x2247;||≈||bgcolor="#FFDDCC"|&#x2249;||bgcolor="#FFDDCC"|&#x224A;||bgcolor="#FFDDCC"|&#x224B;||bgcolor="#FFDDCC"|&#x224C;||bgcolor="#FFDDCC"|&#x224D;||bgcolor="#FFDDCC"|&#x224E;||bgcolor="#FFDDCC"|&#x224F;
+|-
+!2250
+|bgcolor="#FFDDCC"|&#x2250;||bgcolor="#FFDDCC"|&#x2251;||bgcolor="#FFDDCC"|&#x2252;||bgcolor="#FFDDCC"|&#x2253;||bgcolor="#FFDDCC"|&#x2254;||bgcolor="#FFDDCC"|&#x2255;||bgcolor="#FFDDCC"|&#x2256;||bgcolor="#FFDDCC"|&#x2257;||bgcolor="#FFDDCC"|&#x2258;||bgcolor="#FFFF88"|&#x2259;||bgcolor="#FFDDCC"|&#x225A;||bgcolor="#FFDDCC"|&#x225B;||bgcolor="#FFDDCC"|&#x225C;||bgcolor="#FFDDCC"|&#x225D;||bgcolor="#FFDDCC"|&#x225E;||bgcolor="#FFDDCC"|&#x225F;
+|-
+!2260
+|≠||≡||bgcolor="#FFDDCC"|&#x2262;||bgcolor="#FFDDCC"|&#x2263;||≤||≥||bgcolor="#FFDDCC"|&#x2266;||bgcolor="#FFDDCC"|&#x2267;||bgcolor="#FFDDCC"|&#x2268;||bgcolor="#FFDDCC"|&#x2269;||bgcolor="#FFDDCC"|&#x226A;||bgcolor="#FFDDCC"|&#x226B;||bgcolor="#FFDDCC"|&#x226C;||bgcolor="#FFDDCC"|&#x226D;||bgcolor="#FFDDCC"|&#x226E;||bgcolor="#FFDDCC"|&#x226F;
+|-
+!2270
+|bgcolor="#FFDDCC"|&#x2270;||bgcolor="#FFDDCC"|&#x2271;||bgcolor="#FFDDCC"|&#x2272;||bgcolor="#FFDDCC"|&#x2273;||bgcolor="#FFDDCC"|&#x2274;||bgcolor="#FFDDCC"|&#x2275;||bgcolor="#FFDDCC"|&#x2276;||bgcolor="#FFDDCC"|&#x2277;||bgcolor="#FFDDCC"|&#x2278;||bgcolor="#FFDDCC"|&#x2279;||bgcolor="#FFDDCC"|&#x227A;||bgcolor="#FFDDCC"|&#x227B;||bgcolor="#FFDDCC"|&#x227C;||bgcolor="#FFDDCC"|&#x227D;||bgcolor="#FFDDCC"|&#x227E;||bgcolor="#FFDDCC"|&#x227F;
+|-
+!2280
+|bgcolor="#FFDDCC"|&#x2280;||bgcolor="#FFDDCC"|&#x2281;||bgcolor="#FFFF88"|&#x2282;||bgcolor="#FFFF88"|&#x2283;||bgcolor="#FFDDCC"|&#x2284;||bgcolor="#FFDDCC"|&#x2285;||bgcolor="#FFDDCC"|&#x2286;||bgcolor="#FFDDCC"|&#x2287;||bgcolor="#FFDDCC"|&#x2288;||bgcolor="#FFDDCC"|&#x2289;||bgcolor="#FFDDCC"|&#x228A;||bgcolor="#FFDDCC"|&#x228B;||bgcolor="#FFDDCC"|&#x228C;||bgcolor="#FFDDCC"|&#x228D;||bgcolor="#FFDDCC"|&#x228E;||bgcolor="#FFDDCC"|&#x228F;
+|-
+!2290
+|bgcolor="#FFDDCC"|&#x2290;||bgcolor="#FFDDCC"|&#x2291;||bgcolor="#FFDDCC"|&#x2292;||bgcolor="#FFDDCC"|&#x2293;||bgcolor="#FFDDCC"|&#x2294;||bgcolor="#FFFF88"|&#x2295;||bgcolor="#FFDDCC"|&#x2296;||bgcolor="#FFFF88"|&#x2297;||bgcolor="#FFDDCC"|&#x2298;||bgcolor="#FFDDCC"|&#x2299;||bgcolor="#FFDDCC"|&#x229A;||bgcolor="#FFDDCC"|&#x229B;||bgcolor="#FFDDCC"|&#x229C;||bgcolor="#FFDDCC"|&#x229D;||bgcolor="#FFDDCC"|&#x229E;||bgcolor="#FFDDCC"|&#x229F;
+|-
+!22A0
+|bgcolor="#FFDDCC"|&#x22A0;||bgcolor="#FFDDCC"|&#x22A1;||bgcolor="#FFDDCC"|&#x22A2;||bgcolor="#FFDDCC"|&#x22A3;||bgcolor="#FFDDCC"|&#x22A4;||bgcolor="#FFDDCC"|&#x22A5;||bgcolor="#FFDDCC"|&#x22A6;||bgcolor="#FFDDCC"|&#x22A7;||bgcolor="#FFDDCC"|&#x22A8;||bgcolor="#FFDDCC"|&#x22A9;||bgcolor="#FFDDCC"|&#x22AA;||bgcolor="#FFDDCC"|&#x22AB;||bgcolor="#FFDDCC"|&#x22AC;||bgcolor="#FFDDCC"|&#x22AD;||bgcolor="#FFDDCC"|&#x22AE;||bgcolor="#FFDDCC"|&#x22AF;
+|-
+!22B0
+|bgcolor="#FFDDCC"|&#x22B0;||bgcolor="#FFDDCC"|&#x22B1;||bgcolor="#FFDDCC"|&#x22B2;||bgcolor="#FFDDCC"|&#x22B3;||bgcolor="#FFDDCC"|&#x22B4;||bgcolor="#FFDDCC"|&#x22B5;||bgcolor="#FFDDCC"|&#x22B6;||bgcolor="#FFDDCC"|&#x22B7;||bgcolor="#FFDDCC"|&#x22B8;||bgcolor="#FFDDCC"|&#x22B9;||bgcolor="#FFDDCC"|&#x22BA;||bgcolor="#FFDDCC"|&#x22BB;||bgcolor="#FFDDCC"|&#x22BC;||bgcolor="#FFDDCC"|&#x22BD;||bgcolor="#FFDDCC"|&#x22BE;||bgcolor="#FFDDCC"|&#x22BF;
+|-
+!22C0
+|bgcolor="#FFDDCC"|&#x22C0;||bgcolor="#FFDDCC"|&#x22C1;||bgcolor="#FFDDCC"|&#x22C2;||bgcolor="#FFDDCC"|&#x22C3;||bgcolor="#FFDDCC"|&#x22C4;||bgcolor="#FFDDCC"|&#x22C5;||bgcolor="#FFDDCC"|&#x22C6;||bgcolor="#FFDDCC"|&#x22C7;||bgcolor="#FFDDCC"|&#x22C8;||bgcolor="#FFDDCC"|&#x22C9;||bgcolor="#FFDDCC"|&#x22CA;||bgcolor="#FFDDCC"|&#x22CB;||bgcolor="#FFDDCC"|&#x22CC;||bgcolor="#FFDDCC"|&#x22CD;||bgcolor="#FFDDCC"|&#x22CE;||bgcolor="#FFDDCC"|&#x22CF;
+|-
+!22D0
+|bgcolor="#FFDDCC"|&#x22D0;||bgcolor="#FFDDCC"|&#x22D1;||bgcolor="#FFDDCC"|&#x22D2;||bgcolor="#FFDDCC"|&#x22D3;||bgcolor="#FFDDCC"|&#x22D4;||bgcolor="#FFDDCC"|&#x22D5;||bgcolor="#FFDDCC"|&#x22D6;||bgcolor="#FFDDCC"|&#x22D7;||bgcolor="#FFDDCC"|&#x22D8;||bgcolor="#FFDDCC"|&#x22D9;||bgcolor="#FFDDCC"|&#x22DA;||bgcolor="#FFDDCC"|&#x22DB;||bgcolor="#FFDDCC"|&#x22DC;||bgcolor="#FFDDCC"|&#x22DD;||bgcolor="#FFDDCC"|&#x22DE;||bgcolor="#FFDDCC"|&#x22DF;
+|-
+!22E0
+|bgcolor="#FFDDCC"|&#x22E0;||bgcolor="#FFDDCC"|&#x22E1;||bgcolor="#FFDDCC"|&#x22E2;||bgcolor="#FFDDCC"|&#x22E3;||bgcolor="#FFDDCC"|&#x22E4;||bgcolor="#FFDDCC"|&#x22E5;||bgcolor="#FFDDCC"|&#x22E6;||bgcolor="#FFDDCC"|&#x22E7;||bgcolor="#FFDDCC"|&#x22E8;||bgcolor="#FFDDCC"|&#x22E9;||bgcolor="#FFDDCC"|&#x22EA;||bgcolor="#FFDDCC"|&#x22EB;||bgcolor="#FFDDCC"|&#x22EC;||bgcolor="#FFDDCC"|&#x22ED;||bgcolor="#FFDDCC"|&#x22EE;||bgcolor="#FFDDCC"|&#x22EF;
+|-
+!22F0
+|bgcolor="#FFDDCC"|&#x22F0;||bgcolor="#FFDDCC"|&#x22F1;||bgcolor="#CCCCCC" colspan="14"|&nbsp;
+|-
+!2300
+|bgcolor="#FFDDCC"|&#x2300;||bgcolor="#FFDDCC"|&#x2301;||⌂||bgcolor="#FFDDCC"|&#x2303;||bgcolor="#FFDDCC"|&#x2304;||bgcolor="#FFDDCC"|&#x2305;||bgcolor="#FFDDCC"|&#x2306;||bgcolor="#FFDDCC"|&#x2307;||bgcolor="#FFDDCC"|&#x2308;||bgcolor="#FFDDCC"|&#x2309;||bgcolor="#FFDDCC"|&#x230A;||bgcolor="#FFDDCC"|&#x230B;||bgcolor="#FFDDCC"|&#x230C;||bgcolor="#FFDDCC"|&#x230D;||bgcolor="#FFDDCC"|&#x230E;||bgcolor="#FFDDCC"|&#x230F;
+|-
+!2310
+|⌐||bgcolor="#FFDDCC"|&#x2311;||bgcolor="#FFDDCC"|&#x2312;||bgcolor="#FFDDCC"|&#x2313;||bgcolor="#FFDDCC"|&#x2314;||bgcolor="#FFDDCC"|&#x2315;||bgcolor="#FFDDCC"|&#x2316;||bgcolor="#FFDDCC"|&#x2317;||bgcolor="#FFDDCC"|&#x2318;||bgcolor="#FFDDCC"|&#x2319;||bgcolor="#FFDDCC"|&#x231A;||bgcolor="#FFDDCC"|&#x231B;||bgcolor="#FFDDCC"|&#x231C;||bgcolor="#FFDDCC"|&#x231D;||bgcolor="#FFDDCC"|&#x231E;||bgcolor="#FFDDCC"|&#x231F;
+|-
+!2320
+|⌠||⌡||bgcolor="#FFDDCC"|&#x2322;||bgcolor="#FFDDCC"|&#x2323;||bgcolor="#FFDDCC"|&#x2324;||bgcolor="#FFDDCC"|&#x2325;||bgcolor="#FFDDCC"|&#x2326;||bgcolor="#FFDDCC"|&#x2327;||bgcolor="#FFDDCC"|&#x2328;||bgcolor="#FFFF88"|&#x2329;||bgcolor="#FFFF88"|&#x232A;||bgcolor="#FFDDCC"|&#x232B;||bgcolor="#FFDDCC"|&#x232C;||bgcolor="#FFDDCC"|&#x232D;||bgcolor="#FFDDCC"|&#x232E;||bgcolor="#FFDDCC"|&#x232F;
+|-
+!2330
+|bgcolor="#FFDDCC"|&#x2330;||bgcolor="#FFDDCC"|&#x2331;||bgcolor="#FFDDCC"|&#x2332;||bgcolor="#FFDDCC"|&#x2333;||bgcolor="#FFDDCC"|&#x2334;||bgcolor="#FFDDCC"|&#x2335;||bgcolor="#FFDDCC"|&#x2336;||bgcolor="#FFDDCC"|&#x2337;||bgcolor="#FFDDCC"|&#x2338;||bgcolor="#FFDDCC"|&#x2339;||bgcolor="#FFDDCC"|&#x233A;||bgcolor="#FFDDCC"|&#x233B;||bgcolor="#FFDDCC"|&#x233C;||bgcolor="#FFDDCC"|&#x233D;||bgcolor="#FFDDCC"|&#x233E;||bgcolor="#FFDDCC"|&#x233F;
+|-
+!2340
+|bgcolor="#FFDDCC"|&#x2340;||bgcolor="#FFDDCC"|&#x2341;||bgcolor="#FFDDCC"|&#x2342;||bgcolor="#FFDDCC"|&#x2343;||bgcolor="#FFDDCC"|&#x2344;||bgcolor="#FFDDCC"|&#x2345;||bgcolor="#FFDDCC"|&#x2346;||bgcolor="#FFDDCC"|&#x2347;||bgcolor="#FFDDCC"|&#x2348;||bgcolor="#FFDDCC"|&#x2349;||bgcolor="#FFDDCC"|&#x234A;||bgcolor="#FFDDCC"|&#x234B;||bgcolor="#FFDDCC"|&#x234C;||bgcolor="#FFDDCC"|&#x234D;||bgcolor="#FFDDCC"|&#x234E;||bgcolor="#FFDDCC"|&#x234F;
+|-
+!2350
+|bgcolor="#FFDDCC"|&#x2350;||bgcolor="#FFDDCC"|&#x2351;||bgcolor="#FFDDCC"|&#x2352;||bgcolor="#FFDDCC"|&#x2353;||bgcolor="#FFDDCC"|&#x2354;||bgcolor="#FFDDCC"|&#x2355;||bgcolor="#FFDDCC"|&#x2356;||bgcolor="#FFDDCC"|&#x2357;||bgcolor="#FFDDCC"|&#x2358;||bgcolor="#FFDDCC"|&#x2359;||bgcolor="#FFDDCC"|&#x235A;||bgcolor="#FFDDCC"|&#x235B;||bgcolor="#FFDDCC"|&#x235C;||bgcolor="#FFDDCC"|&#x235D;||bgcolor="#FFDDCC"|&#x235E;||bgcolor="#FFDDCC"|&#x235F;
+|-
+!2360
+|bgcolor="#FFDDCC"|&#x2360;||bgcolor="#FFDDCC"|&#x2361;||bgcolor="#FFDDCC"|&#x2362;||bgcolor="#FFDDCC"|&#x2363;||bgcolor="#FFDDCC"|&#x2364;||bgcolor="#FFDDCC"|&#x2365;||bgcolor="#FFDDCC"|&#x2366;||bgcolor="#FFDDCC"|&#x2367;||bgcolor="#FFDDCC"|&#x2368;||bgcolor="#FFDDCC"|&#x2369;||bgcolor="#FFDDCC"|&#x236A;||bgcolor="#FFDDCC"|&#x236B;||bgcolor="#FFDDCC"|&#x236C;||bgcolor="#FFDDCC"|&#x236D;||bgcolor="#FFDDCC"|&#x236E;||bgcolor="#FFDDCC"|&#x236F;
+|-
+!2370
+|bgcolor="#FFDDCC"|&#x2370;||bgcolor="#FFDDCC"|&#x2371;||bgcolor="#FFDDCC"|&#x2372;||bgcolor="#FFDDCC"|&#x2373;||bgcolor="#FFDDCC"|&#x2374;||bgcolor="#FFDDCC"|&#x2375;||bgcolor="#FFDDCC"|&#x2376;||bgcolor="#FFDDCC"|&#x2377;||bgcolor="#FFDDCC"|&#x2378;||bgcolor="#FFDDCC"|&#x2379;||bgcolor="#FFDDCC"|&#x237A;||bgcolor="#FFDDCC"|&#x237B;||bgcolor="#CCCCCC" colspan="1"|&nbsp;||bgcolor="#FFDDCC"|&#x237D;||bgcolor="#FFDDCC"|&#x237E;||bgcolor="#FFDDCC"|&#x237F;
+|-
+!2380
+|bgcolor="#FFDDCC"|&#x2380;||bgcolor="#FFDDCC"|&#x2381;||bgcolor="#FFDDCC"|&#x2382;||bgcolor="#FFDDCC"|&#x2383;||bgcolor="#FFDDCC"|&#x2384;||bgcolor="#FFDDCC"|&#x2385;||bgcolor="#FFDDCC"|&#x2386;||bgcolor="#FFDDCC"|&#x2387;||bgcolor="#FFDDCC"|&#x2388;||bgcolor="#FFDDCC"|&#x2389;||bgcolor="#FFDDCC"|&#x238A;||bgcolor="#FFDDCC"|&#x238B;||bgcolor="#FFDDCC"|&#x238C;||bgcolor="#FFDDCC"|&#x238D;||bgcolor="#FFDDCC"|&#x238E;||bgcolor="#FFDDCC"|&#x238F;
+|-
+!2390
+|bgcolor="#FFDDCC"|&#x2390;||bgcolor="#FFDDCC"|&#x2391;||bgcolor="#FFDDCC"|&#x2392;||bgcolor="#FFDDCC"|&#x2393;||bgcolor="#FFDDCC"|&#x2394;||bgcolor="#FFDDCC"|&#x2395;||bgcolor="#FFDDCC"|&#x2396;||bgcolor="#FFDDCC"|&#x2397;||bgcolor="#FFDDCC"|&#x2398;||bgcolor="#FFDDCC"|&#x2399;||bgcolor="#FFDDCC"|&#x239A;||bgcolor="#CCCCCC" colspan="5"|&nbsp;
+|-
+!colspan="17" bgcolor="#CCCCCC"| 
+|-
+!2440
+|bgcolor="#FFDDCC"|&#x2440;||bgcolor="#FFDDCC"|&#x2441;||bgcolor="#FFDDCC"|&#x2442;||bgcolor="#FFDDCC"|&#x2443;||bgcolor="#FFDDCC"|&#x2444;||bgcolor="#FFDDCC"|&#x2445;||bgcolor="#FFDDCC"|&#x2446;||bgcolor="#FFDDCC"|&#x2447;||bgcolor="#FFDDCC"|&#x2448;||bgcolor="#FFDDCC"|&#x2449;||bgcolor="#FFDDCC"|&#x244A;||bgcolor="#CCCCCC" colspan="5"|&nbsp;
+|-
+!colspan="17" bgcolor="#CCCCCC"| 
+|-
+!2500
+|─||bgcolor="#FFDDCC"|&#x2501;||│||bgcolor="#FFDDCC"|&#x2503;||bgcolor="#FFDDCC"|&#x2504;||bgcolor="#FFDDCC"|&#x2505;||bgcolor="#FFDDCC"|&#x2506;||bgcolor="#FFDDCC"|&#x2507;||bgcolor="#FFDDCC"|&#x2508;||bgcolor="#FFDDCC"|&#x2509;||bgcolor="#FFDDCC"|&#x250A;||bgcolor="#FFDDCC"|&#x250B;||┌||bgcolor="#FFDDCC"|&#x250D;||bgcolor="#FFDDCC"|&#x250E;||bgcolor="#FFDDCC"|&#x250F;
+|-
+!2510
+|┐||bgcolor="#FFDDCC"|&#x2511;||bgcolor="#FFDDCC"|&#x2512;||bgcolor="#FFDDCC"|&#x2513;||└||bgcolor="#FFDDCC"|&#x2515;||bgcolor="#FFDDCC"|&#x2516;||bgcolor="#FFDDCC"|&#x2517;||┘||bgcolor="#FFDDCC"|&#x2519;||bgcolor="#FFDDCC"|&#x251A;||bgcolor="#FFDDCC"|&#x251B;||├||bgcolor="#FFDDCC"|&#x251D;||bgcolor="#FFDDCC"|&#x251E;||bgcolor="#FFDDCC"|&#x251F;
+|-
+!2520
+|bgcolor="#FFDDCC"|&#x2520;||bgcolor="#FFDDCC"|&#x2521;||bgcolor="#FFDDCC"|&#x2522;||bgcolor="#FFDDCC"|&#x2523;||┤||bgcolor="#FFDDCC"|&#x2525;||bgcolor="#FFDDCC"|&#x2526;||bgcolor="#FFDDCC"|&#x2527;||bgcolor="#FFDDCC"|&#x2528;||bgcolor="#FFDDCC"|&#x2529;||bgcolor="#FFDDCC"|&#x252A;||bgcolor="#FFDDCC"|&#x252B;||┬||bgcolor="#FFDDCC"|&#x252D;||bgcolor="#FFDDCC"|&#x252E;||bgcolor="#FFDDCC"|&#x252F;
+|-
+!2530
+|bgcolor="#FFDDCC"|&#x2530;||bgcolor="#FFDDCC"|&#x2531;||bgcolor="#FFDDCC"|&#x2532;||bgcolor="#FFDDCC"|&#x2533;||┴||bgcolor="#FFDDCC"|&#x2535;||bgcolor="#FFDDCC"|&#x2536;||bgcolor="#FFDDCC"|&#x2537;||bgcolor="#FFDDCC"|&#x2538;||bgcolor="#FFDDCC"|&#x2539;||bgcolor="#FFDDCC"|&#x253A;||bgcolor="#FFDDCC"|&#x253B;||┼||bgcolor="#FFDDCC"|&#x253D;||bgcolor="#FFDDCC"|&#x253E;||bgcolor="#FFDDCC"|&#x253F;
+|-
+!2540
+|bgcolor="#FFDDCC"|&#x2540;||bgcolor="#FFDDCC"|&#x2541;||bgcolor="#FFDDCC"|&#x2542;||bgcolor="#FFDDCC"|&#x2543;||bgcolor="#FFDDCC"|&#x2544;||bgcolor="#FFDDCC"|&#x2545;||bgcolor="#FFDDCC"|&#x2546;||bgcolor="#FFDDCC"|&#x2547;||bgcolor="#FFDDCC"|&#x2548;||bgcolor="#FFDDCC"|&#x2549;||bgcolor="#FFDDCC"|&#x254A;||bgcolor="#FFDDCC"|&#x254B;||bgcolor="#FFDDCC"|&#x254C;||bgcolor="#FFDDCC"|&#x254D;||bgcolor="#FFDDCC"|&#x254E;||bgcolor="#FFDDCC"|&#x254F;
+|-
+!2550
+|═||║||╒||╓||╔||╕||╖||╗||╘||╙||╚||╛||╜||╝||╞||╟
+|-
+!2560
+|╠||╡||╢||╣||╤||╥||╦||╧||╨||╩||╪||╫||╬||bgcolor="#FFDDCC"|&#x256D;||bgcolor="#FFDDCC"|&#x256E;||bgcolor="#FFDDCC"|&#x256F;
+|-
+!2570
+|bgcolor="#FFDDCC"|&#x2570;||bgcolor="#FFDDCC"|&#x2571;||bgcolor="#FFDDCC"|&#x2572;||bgcolor="#FFDDCC"|&#x2573;||bgcolor="#FFDDCC"|&#x2574;||bgcolor="#FFDDCC"|&#x2575;||bgcolor="#FFDDCC"|&#x2576;||bgcolor="#FFDDCC"|&#x2577;||bgcolor="#FFDDCC"|&#x2578;||bgcolor="#FFDDCC"|&#x2579;||bgcolor="#FFDDCC"|&#x257A;||bgcolor="#FFDDCC"|&#x257B;||bgcolor="#FFDDCC"|&#x257C;||bgcolor="#FFDDCC"|&#x257D;||bgcolor="#FFDDCC"|&#x257E;||bgcolor="#FFDDCC"|&#x257F;
+|-
+!2580
+|▀||bgcolor="#FFDDCC"|&#x2581;||bgcolor="#FFDDCC"|&#x2582;||bgcolor="#FFDDCC"|&#x2583;||▄||bgcolor="#FFDDCC"|&#x2585;||bgcolor="#FFDDCC"|&#x2586;||bgcolor="#FFDDCC"|&#x2587;||█||bgcolor="#FFDDCC"|&#x2589;||bgcolor="#FFDDCC"|&#x258A;||bgcolor="#FFDDCC"|&#x258B;||▌||bgcolor="#FFDDCC"|&#x258D;||bgcolor="#FFDDCC"|&#x258E;||bgcolor="#FFDDCC"|&#x258F;
+|-
+!2590
+|▐||░||▒||▓||bgcolor="#FFDDCC"|&#x2594;||bgcolor="#FFDDCC"|&#x2595;||bgcolor="#CCCCCC" colspan="10"|&nbsp;
+|-
+!25A0
+|■||□||bgcolor="#FFDDCC"|&#x25A2;||bgcolor="#FFDDCC"|&#x25A3;||bgcolor="#FFDDCC"|&#x25A4;||bgcolor="#FFDDCC"|&#x25A5;||bgcolor="#FFDDCC"|&#x25A6;||bgcolor="#FFDDCC"|&#x25A7;||bgcolor="#FFDDCC"|&#x25A8;||bgcolor="#FFDDCC"|&#x25A9;||▪||▫||▬||bgcolor="#FFDDCC"|&#x25AD;||bgcolor="#FFDDCC"|&#x25AE;||bgcolor="#FFDDCC"|&#x25AF;
+|-
+!25B0
+|bgcolor="#FFDDCC"|&#x25B0;||bgcolor="#FFDDCC"|&#x25B1;||▲||bgcolor="#FFDDCC"|&#x25B3;||bgcolor="#FFDDCC"|&#x25B4;||bgcolor="#FFDDCC"|&#x25B5;||bgcolor="#FFDDCC"|&#x25B6;||bgcolor="#FFDDCC"|&#x25B7;||bgcolor="#FFDDCC"|&#x25B8;||bgcolor="#FFDDCC"|&#x25B9;||►||bgcolor="#FFDDCC"|&#x25BB;||▼||bgcolor="#FFDDCC"|&#x25BD;||bgcolor="#FFDDCC"|&#x25BE;||bgcolor="#FFDDCC"|&#x25BF;
+|-
+!25C0
+|bgcolor="#FFDDCC"|&#x25C0;||bgcolor="#FFDDCC"|&#x25C1;||bgcolor="#FFDDCC"|&#x25C2;||bgcolor="#FFDDCC"|&#x25C3;||◄||bgcolor="#FFDDCC"|&#x25C5;||bgcolor="#FFDDCC"|&#x25C6;||bgcolor="#FFDDCC"|&#x25C7;||bgcolor="#FFDDCC"|&#x25C8;||bgcolor="#FFDDCC"|&#x25C9;||◊||○||bgcolor="#FFDDCC"|&#x25CC;||bgcolor="#FFDDCC"|&#x25CD;||bgcolor="#FFDDCC"|&#x25CE;||●
+|-
+!25D0
+|bgcolor="#FFDDCC"|&#x25D0;||bgcolor="#FFDDCC"|&#x25D1;||bgcolor="#FFDDCC"|&#x25D2;||bgcolor="#FFDDCC"|&#x25D3;||bgcolor="#FFDDCC"|&#x25D4;||bgcolor="#FFDDCC"|&#x25D5;||bgcolor="#FFDDCC"|&#x25D6;||bgcolor="#FFDDCC"|&#x25D7;||◘||◙||bgcolor="#FFDDCC"|&#x25DA;||bgcolor="#FFDDCC"|&#x25DB;||bgcolor="#FFDDCC"|&#x25DC;||bgcolor="#FFDDCC"|&#x25DD;||bgcolor="#FFDDCC"|&#x25DE;||bgcolor="#FFDDCC"|&#x25DF;
+|-
+!25E0
+|bgcolor="#FFDDCC"|&#x25E0;||bgcolor="#FFDDCC"|&#x25E1;||bgcolor="#FFDDCC"|&#x25E2;||bgcolor="#FFDDCC"|&#x25E3;||bgcolor="#FFDDCC"|&#x25E4;||bgcolor="#FFDDCC"|&#x25E5;||◦||bgcolor="#FFDDCC"|&#x25E7;||bgcolor="#FFDDCC"|&#x25E8;||bgcolor="#FFDDCC"|&#x25E9;||bgcolor="#FFDDCC"|&#x25EA;||bgcolor="#FFDDCC"|&#x25EB;||bgcolor="#FFDDCC"|&#x25EC;||bgcolor="#FFDDCC"|&#x25ED;||bgcolor="#FFDDCC"|&#x25EE;||bgcolor="#FFDDCC"|&#x25EF;
+|-
+!25F0
+|bgcolor="#FFDDCC"|&#x25F0;||bgcolor="#FFDDCC"|&#x25F1;||bgcolor="#FFDDCC"|&#x25F2;||bgcolor="#FFDDCC"|&#x25F3;||bgcolor="#FFDDCC"|&#x25F4;||bgcolor="#FFDDCC"|&#x25F5;||bgcolor="#FFDDCC"|&#x25F6;||bgcolor="#FFDDCC"|&#x25F7;||bgcolor="#CCCCCC" colspan="8"|&nbsp;
+|-
+!2600
+|bgcolor="#FFDDCC"|&#x2600;||bgcolor="#FFDDCC"|&#x2601;||bgcolor="#FFDDCC"|&#x2602;||bgcolor="#FFDDCC"|&#x2603;||bgcolor="#FFDDCC"|&#x2604;||bgcolor="#FFDDCC"|&#x2605;||bgcolor="#FFDDCC"|&#x2606;||bgcolor="#FFDDCC"|&#x2607;||bgcolor="#FFDDCC"|&#x2608;||bgcolor="#FFDDCC"|&#x2609;||bgcolor="#FFDDCC"|&#x260A;||bgcolor="#FFDDCC"|&#x260B;||bgcolor="#FFDDCC"|&#x260C;||bgcolor="#FFDDCC"|&#x260D;||bgcolor="#FFDDCC"|&#x260E;||bgcolor="#FFDDCC"|&#x260F;
+|-
+!2610
+|bgcolor="#FFDDCC"|&#x2610;||bgcolor="#FFDDCC"|&#x2611;||bgcolor="#FFDDCC"|&#x2612;||bgcolor="#FFDDCC"|&#x2613;||bgcolor="#CCCCCC" colspan="5"|&nbsp;||bgcolor="#FFDDCC"|&#x2619;||bgcolor="#FFDDCC"|&#x261A;||bgcolor="#FFDDCC"|&#x261B;||bgcolor="#FFDDCC"|&#x261C;||bgcolor="#FFDDCC"|&#x261D;||bgcolor="#FFDDCC"|&#x261E;||bgcolor="#FFDDCC"|&#x261F;
+|-
+!2620
+|bgcolor="#FFDDCC"|&#x2620;||bgcolor="#FFDDCC"|&#x2621;||bgcolor="#FFDDCC"|&#x2622;||bgcolor="#FFDDCC"|&#x2623;||bgcolor="#FFDDCC"|&#x2624;||bgcolor="#FFDDCC"|&#x2625;||bgcolor="#FFDDCC"|&#x2626;||bgcolor="#FFDDCC"|&#x2627;||bgcolor="#FFDDCC"|&#x2628;||bgcolor="#FFDDCC"|&#x2629;||bgcolor="#FFDDCC"|&#x262A;||bgcolor="#FFDDCC"|&#x262B;||bgcolor="#FFDDCC"|&#x262C;||bgcolor="#FFDDCC"|&#x262D;||bgcolor="#FFDDCC"|&#x262E;||bgcolor="#FFDDCC"|&#x262F;
+|-
+!2630
+|bgcolor="#FFDDCC"|&#x2630;||bgcolor="#FFDDCC"|&#x2631;||bgcolor="#FFDDCC"|&#x2632;||bgcolor="#FFDDCC"|&#x2633;||bgcolor="#FFDDCC"|&#x2634;||bgcolor="#FFDDCC"|&#x2635;||bgcolor="#FFDDCC"|&#x2636;||bgcolor="#FFDDCC"|&#x2637;||bgcolor="#FFDDCC"|&#x2638;||bgcolor="#FFDDCC"|&#x2639;||☺||☻||☼||bgcolor="#FFDDCC"|&#x263D;||bgcolor="#FFDDCC"|&#x263E;||bgcolor="#FFDDCC"|&#x263F;
+|-
+!2640
+|♀||bgcolor="#FFDDCC"|&#x2641;||♂||bgcolor="#FFDDCC"|&#x2643;||bgcolor="#FFDDCC"|&#x2644;||bgcolor="#FFDDCC"|&#x2645;||bgcolor="#FFDDCC"|&#x2646;||bgcolor="#FFDDCC"|&#x2647;||bgcolor="#FFDDCC"|&#x2648;||bgcolor="#FFDDCC"|&#x2649;||bgcolor="#FFDDCC"|&#x264A;||bgcolor="#FFDDCC"|&#x264B;||bgcolor="#FFDDCC"|&#x264C;||bgcolor="#FFDDCC"|&#x264D;||bgcolor="#FFDDCC"|&#x264E;||bgcolor="#FFDDCC"|&#x264F;
+|-
+!2650
+|bgcolor="#FFDDCC"|&#x2650;||bgcolor="#FFDDCC"|&#x2651;||bgcolor="#FFDDCC"|&#x2652;||bgcolor="#FFDDCC"|&#x2653;||bgcolor="#FFDDCC"|&#x2654;||bgcolor="#FFDDCC"|&#x2655;||bgcolor="#FFDDCC"|&#x2656;||bgcolor="#FFDDCC"|&#x2657;||bgcolor="#FFDDCC"|&#x2658;||bgcolor="#FFDDCC"|&#x2659;||bgcolor="#FFDDCC"|&#x265A;||bgcolor="#FFDDCC"|&#x265B;||bgcolor="#FFDDCC"|&#x265C;||bgcolor="#FFDDCC"|&#x265D;||bgcolor="#FFDDCC"|&#x265E;||bgcolor="#FFDDCC"|&#x265F;
+|-
+!2660
+|♠||bgcolor="#FFDDCC"|&#x2661;||bgcolor="#FFDDCC"|&#x2662;||♣||bgcolor="#FFDDCC"|&#x2664;||♥||♦||bgcolor="#FFDDCC"|&#x2667;||bgcolor="#FFDDCC"|&#x2668;||bgcolor="#FFDDCC"|&#x2669;||♪||♫||bgcolor="#FFDDCC"|&#x266C;||bgcolor="#FFDDCC"|&#x266D;||bgcolor="#FFDDCC"|&#x266E;||bgcolor="#FFDDCC"|&#x266F;
+|-
+!2670
+|bgcolor="#FFDDCC"|&#x2670;||bgcolor="#FFDDCC"|&#x2671;||bgcolor="#CCCCCC" colspan="14"|&nbsp;
+|-
+!colspan="17" bgcolor="#CCCCCC"| 
+|-
+!F000
+|bgcolor="#CCCCCC"|&nbsp;||bgcolor="#CCFFFF"|||bgcolor="#CCFFFF"|||bgcolor="#CCCCCC" colspan="13"|&nbsp;
+|-
+!colspan="17" bgcolor="#CCCCCC"| 
+|-
+!FB00
+|bgcolor="#FFDDCC"|&#xFB00;||ﬁ||ﬂ||bgcolor="#FFDDCC"|&#xFB03;||bgcolor="#FFDDCC"|&#xFB04;||bgcolor="#FFDDCC"|&#xFB05;||bgcolor="#FFDDCC"|&#xFB06;||bgcolor="#CCCCCC" colspan="9"|&nbsp;
+|-
+!FB10
+|bgcolor="#CCCCCC" colspan="3"|&nbsp;||bgcolor="#FFDDCC"|&#xFB13;||bgcolor="#FFDDCC"|&#xFB14;||bgcolor="#FFDDCC"|&#xFB15;||bgcolor="#FFDDCC"|&#xFB16;||bgcolor="#FFDDCC"|&#xFB17;||bgcolor="#CCCCCC" colspan="8"|&nbsp;
+|-
+!colspan="17" bgcolor="#CCCCCC"| 
+|-
+!FE20
+|bgcolor="#FFDDCC"|&#xFE20;||bgcolor="#FFDDCC"|&#xFE21;||bgcolor="#FFDDCC"|&#xFE22;||bgcolor="#FFDDCC"|&#xFE23;||bgcolor="#CCCCCC" colspan="12"|&nbsp;
+|-
+!colspan="17" bgcolor="#CCCCCC"| 
+|-
+!FFF0
+|bgcolor="#CCCCCC" colspan="9"|&nbsp;||bgcolor="#FFDDCC"|&#xFFF9;||bgcolor="#FFDDCC"|&#xFFFA;||bgcolor="#FFDDCC"|&#xFFFB;||bgcolor="#FFDDCC"|&#xFFFC;||bgcolor="#FFFF88"|&#xFFFD;||bgcolor="#CCCCCC" colspan="2"|&nbsp;
+|-
+!
+!0!!1!!2!!3!!4!!5!!6!!7!!8!!9!!A!!B!!C!!D!!E!!F
+|}
+
+colorcode:
+{{legend|#CCFFFF|private use (F001 and F002 are copies of FB01 and FB02)}}
+{{legend|#FFFF88|not in WGL4}}
+{{legend|#FFDDCC|not in WGL4 or MES-2}}
+
+Source: http://www.evertype.com/standards/iso10646/pdf/cwa13873.pdf
+
+== Characters in other character sets but not in MES-3B ==
+
+{| class="wikitable"
+|code||character||character sets
+|-
+|2713||✓||SECS
+|-
+|2717||✗||SECS
+|}
+
+
+{{seealso}}
